@@ -1,4 +1,6 @@
-[
+{
+    "laatsteAanpassing":"2021-01-31",
+    "vertalingen": [
     {"nl":"maandag"                                                 , "es": "lunes"                                        },
     {"nl":"zaterdag"                                                , "es": "sábado"                                       },
     {"nl":"de herfst"                                               , "es": "el otoño"                                     },
