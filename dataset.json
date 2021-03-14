@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2021-02-23",
+    "laatsteAanpassing": "2021-03-14",
     "vertalingen": [
         {
             "id": 1,
@@ -715,6 +715,181 @@
             "id": 143,
             "nl": "de wortel is oranje",
             "es": "la zanahoria es naranja"
+        },
+        {
+            "id": 144,
+            "nl": "ik werk",
+            "es": "yo trabajo"
+        },
+        {
+            "id": 145,
+            "nl": "jij werkt",
+            "es": "tú trabajas"
+        },
+        {
+            "id": 146,
+            "nl": "hij werkt",
+            "es": "él trabaja"
+        },
+        {
+            "id": 147,
+            "nl": "zij werkt",
+            "es": "ella trabaja"
+        },
+        {
+            "id": 148,
+            "nl": "u werkt",
+            "es": "usted trabaja"
+        },
+        {
+            "id": 149,
+            "nl": "wij werken",
+            "es": "nosotros trabajamos"
+        },
+        {
+            "id": 150,
+            "nl": "jullie werken",
+            "es": "vosotros trabajáis"
+        },
+        {
+            "id": 151,
+            "nl": "ze werken",
+            "es": "ellos trabajan"
+        },
+        {
+            "id": 152,
+            "nl": "ik eet",
+            "es": "yo como"
+        },
+        {
+            "id": 153,
+            "nl": "jij eet",
+            "es": "tú comes"
+        },
+        {
+            "id": 154,
+            "nl": "hij eet",
+            "es": "él come"
+        },
+        {
+            "id": 155,
+            "nl": "zij eet",
+            "es": "ella come"
+        },
+        {
+            "id": 156,
+            "nl": "u eet",
+            "es": "usted come"
+        },
+        {
+            "id": 157,
+            "nl": "wij eten",
+            "es": "nosotros comemos"
+        },
+        {
+            "id": 158,
+            "nl": "jullie eten",
+            "es": "vosotros coméis"
+        },
+        {
+            "id": 159,
+            "nl": "ze eten",
+            "es": "ellos comen"
+        },
+        {
+            "id": 160,
+            "nl": "ik leef",
+            "es": "yo vivo"
+        },
+        {
+            "id": 161,
+            "nl": "jij leeft",
+            "es": "tú vives"
+        },
+        {
+            "id": 162,
+            "nl": "werken",
+            "es": "trabajar"
+        },
+        {
+            "id": 163,
+            "nl": "eten",
+            "es": "comer"
+        },
+        {
+            "id": 164,
+            "nl": "leven",
+            "es": "vivir"
+        },
+        {
+            "id": 165,
+            "nl": "hij leeft",
+            "es": "él vive"
+        },
+        {
+            "id": 166,
+            "nl": "zij leeft",
+            "es": "ella vive"
+        },
+        {
+            "id": 167,
+            "nl": "u leeft",
+            "es": "usted vive"
+        },
+        {
+            "id": 168,
+            "nl": "wij leven",
+            "es": "nosotros vivimos"
+        },
+        {
+            "id": 169,
+            "nl": "jullie leven",
+            "es": "vosotros vivís"
+        },
+        {
+            "id": 170,
+            "nl": "ze leven",
+            "es": "ellos viven"
+        },
+        {
+            "id": 171,
+            "nl": "zien",
+            "es": "ver"
+        },
+        {
+            "id": 172,
+            "nl": "ik zie",
+            "es": "yo veo"
+        },
+        {
+            "id": 173,
+            "nl": "jij ziet",
+            "es": "tú ves"
+        },
+        {
+            "id": 174,
+            "nl": "hij ziet",
+            "es": "él ve"
+        },
+        {
+            "id": 175,
+            "nl": "zij ziet",
+            "es": "ella ve"
+        },
+        {
+            "id": 176,
+            "nl": "wij zijn",
+            "es": "nosotros vemos"
+        },
+        {
+            "id": 177,
+            "nl": "jullie zien",
+            "es": "vosotros veis"
+        },
+        {
+            "id": 178,
+            "nl": "ze zien",
+            "es": "ellos ven"
         }
     ]
 }
