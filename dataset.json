@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2021-03-25",
+    "laatsteAanpassing": "2021-05-15",
     "vertalingen": [
         {
             "id": 1,
@@ -1067,6 +1067,540 @@
             "id": 178,
             "nl": "ze zien",
             "es": "ellos ven",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 179,
+            "nl": "een beetje",
+            "es": "un poco",
+            "tags": ""
+        },
+        {
+            "id": 180,
+            "nl": "voldoende",
+            "es": "bastante",
+            "tags": ""
+        },
+        {
+            "id": 181,
+            "nl": "heel ",
+            "es": "muy",
+            "tags": ""
+        },
+        {
+            "id": 182,
+            "nl": "eigenschappen",
+            "es": "características",
+            "tags": ""
+        },
+        {
+            "id": 183,
+            "nl": "bruinharig",
+            "es": "moreno",
+            "tags": ""
+        },
+        {
+            "id": 184,
+            "nl": "kaal",
+            "es": "calvo",
+            "tags": ""
+        },
+        {
+            "id": 185,
+            "nl": "roodharig",
+            "es": "pelirroja",
+            "tags": ""
+        },
+        {
+            "id": 186,
+            "nl": "blond",
+            "es": "rubia",
+            "tags": ""
+        },
+        {
+            "id": 187,
+            "nl": "leeftijd",
+            "es": "edad",
+            "tags": ""
+        },
+        {
+            "id": 188,
+            "nl": "jong",
+            "es": "joven",
+            "tags": ""
+        },
+        {
+            "id": 189,
+            "nl": "oud",
+            "es": "mayor",
+            "tags": ""
+        },
+        {
+            "id": 190,
+            "nl": "grootte",
+            "es": "estatura",
+            "tags": ""
+        },
+        {
+            "id": 191,
+            "nl": "groot",
+            "es": "alto",
+            "tags": ""
+        },
+        {
+            "id": 192,
+            "nl": "gemiddelde grootte",
+            "es": "de estatura mediana",
+            "tags": ""
+        },
+        {
+            "id": 193,
+            "nl": "klein",
+            "es": "bajo",
+            "tags": ""
+        },
+        {
+            "id": 194,
+            "nl": "fysieke bouw",
+            "es": "contextura física",
+            "tags": ""
+        },
+        {
+            "id": 195,
+            "nl": "slank",
+            "es": "delgado",
+            "tags": ""
+        },
+        {
+            "id": 196,
+            "nl": "atletisch",
+            "es": "atlético",
+            "tags": ""
+        },
+        {
+            "id": 197,
+            "nl": "mollig",
+            "es": "gordito",
+            "tags": ""
+        },
+        {
+            "id": 198,
+            "nl": "het haar",
+            "es": "el pelo",
+            "tags": ""
+        },
+        {
+            "id": 199,
+            "nl": "kastanjebruin",
+            "es": "castaño",
+            "tags": ""
+        },
+        {
+            "id": 200,
+            "nl": "donker haar",
+            "es": "el pelo oscuro",
+            "tags": ""
+        },
+        {
+            "id": 201,
+            "nl": "kort",
+            "es": "corto",
+            "tags": ""
+        },
+        {
+            "id": 202,
+            "nl": "lang",
+            "es": "largo",
+            "tags": ""
+        },
+        {
+            "id": 203,
+            "nl": "middelmatig lang haar",
+            "es": "el pelo media",
+            "tags": ""
+        },
+        {
+            "id": 204,
+            "nl": "vorm",
+            "es": "forma",
+            "tags": ""
+        },
+        {
+            "id": 205,
+            "nl": "glad",
+            "es": "liso",
+            "tags": ""
+        },
+        {
+            "id": 206,
+            "nl": "een beetje gekruld haar",
+            "es": "ondulado",
+            "tags": ""
+        },
+        {
+            "id": 207,
+            "nl": "gekruld haar",
+            "es": "el pelo rizado",
+            "tags": ""
+        },
+        {
+            "id": 208,
+            "nl": "donker",
+            "es": "oscuro",
+            "tags": ""
+        },
+        {
+            "id": 209,
+            "nl": "bruine ogen",
+            "es": "los ojos marrones ",
+            "tags": ""
+        },
+        {
+            "id": 210,
+            "nl": "zwarte ogen",
+            "es": "los ojos negros",
+            "tags": ""
+        },
+        {
+            "id": 211,
+            "nl": "groene ogen",
+            "es": "los ojos verdes",
+            "tags": ""
+        },
+        {
+            "id": 212,
+            "nl": "grijze ogen",
+            "es": "los ojos grises",
+            "tags": ""
+        },
+        {
+            "id": 213,
+            "nl": "blauwe ogen",
+            "es": "los ojos azules",
+            "tags": ""
+        },
+        {
+            "id": 214,
+            "nl": "lichte ogen",
+            "es": "los ojos claros",
+            "tags": ""
+        },
+        {
+            "id": 215,
+            "nl": "donkere ogen",
+            "es": "los ojos oscuros",
+            "tags": ""
+        },
+        {
+            "id": 216,
+            "nl": "de baard",
+            "es": "la barba",
+            "tags": ""
+        },
+        {
+            "id": 217,
+            "nl": "de snor",
+            "es": "el bigote",
+            "tags": ""
+        },
+        {
+            "id": 218,
+            "nl": "bril",
+            "es": "gafas",
+            "tags": ""
+        },
+        {
+            "id": 219,
+            "nl": "hebben",
+            "es": "tener",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 220,
+            "nl": "ik heb",
+            "es": "yo tengo",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 221,
+            "nl": "jij hebt",
+            "es": "tú tienes",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 222,
+            "nl": "zij heeft",
+            "es": "ella tiene",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 223,
+            "nl": "wij hebben",
+            "es": "nosotros tenemos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 224,
+            "nl": "zij hebben",
+            "es": "vosotros tenéis",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 225,
+            "nl": "zij hebben",
+            "es": "ellos tienen",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 226,
+            "nl": "ser",
+            "es": "zijn",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 227,
+            "nl": "ik ben (estar)",
+            "es": "yo estoy",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 228,
+            "nl": "jij bent (estar)",
+            "es": "tú estás",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 229,
+            "nl": "zij is (estar)",
+            "es": "ella está",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 230,
+            "nl": "wij zijn (estar)",
+            "es": "nosotros estamos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 231,
+            "nl": "zij zijn (estar)",
+            "es": "vosotros estáis",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 232,
+            "nl": "zij zijn (estar)",
+            "es": "ellos están",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 233,
+            "nl": "vragen",
+            "es": "pedir",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 234,
+            "nl": "ik vraag",
+            "es": "yo pido",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 235,
+            "nl": "jij vraagt",
+            "es": "tú pides",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 236,
+            "nl": "u vraagt",
+            "es": "usted pide",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 237,
+            "nl": "wij vragen",
+            "es": "nosotros pedimos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 238,
+            "nl": "zij vragen",
+            "es": "vosotros pedís",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 239,
+            "nl": "zij vragen",
+            "es": "ellos piden",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 240,
+            "nl": "komen",
+            "es": "venir",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 241,
+            "nl": "ik kom",
+            "es": "yo vengo",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 242,
+            "nl": "jij komt",
+            "es": "tú vienes",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 243,
+            "nl": "zij komt",
+            "es": "ella viene",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 244,
+            "nl": "wij komen",
+            "es": "nosotros venimos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 245,
+            "nl": "zij komen",
+            "es": "vosotros venís",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 246,
+            "nl": "zij komen",
+            "es": "ellos vienen",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 247,
+            "nl": "geven",
+            "es": "dar",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 248,
+            "nl": "ik geef",
+            "es": "yo doy",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 249,
+            "nl": "jij geeft",
+            "es": "tú das",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 250,
+            "nl": "zij geeft",
+            "es": "ella da",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 251,
+            "nl": "wij geven",
+            "es": "nostros damos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 252,
+            "nl": "jullie geven",
+            "es": "vosotros dais",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 253,
+            "nl": "zij geven",
+            "es": "ellos dan",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 254,
+            "nl": "maken",
+            "es": "hacer",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 255,
+            "nl": "ik maak",
+            "es": "yo hago",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 256,
+            "nl": "jij maakt",
+            "es": "tú haces",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 257,
+            "nl": "zij maakt",
+            "es": "ella hace",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 258,
+            "nl": "wij maken",
+            "es": "nosotros hacemos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 259,
+            "nl": "jullie maken",
+            "es": "vosotors hacéis",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 260,
+            "nl": "zij maken",
+            "es": "ellos hacen",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 261,
+            "nl": "gaan",
+            "es": "ir",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 262,
+            "nl": "ik ga",
+            "es": "yo voy",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 263,
+            "nl": "jij gaat",
+            "es": "tú vas",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 264,
+            "nl": "hij gaat",
+            "es": "él va",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 265,
+            "nl": "wij gaan",
+            "es": "nosotros vamos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 266,
+            "nl": "jullie gaan",
+            "es": "vosotros vais",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 267,
+            "nl": "zij gaan",
+            "es": "ellos van",
             "tags": "werkwoord"
         }
     ]
