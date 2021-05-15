@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2021-05-15",
+    "laatsteAanpassing": "2021-05-16",
     "vertalingen": [
         {
             "id": 1,
@@ -1602,6 +1602,54 @@
             "nl": "zij gaan",
             "es": "ellos van",
             "tags": "werkwoord"
+        },
+        {
+            "id": 268,
+            "nl": "schaken",
+            "es": "ajedrez",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 269,
+            "nl": "de pion (schaken)",
+            "es": "el peón",
+            "tags": ""
+        },
+        {
+            "id": 270,
+            "nl": "de koning",
+            "es": "el rey",
+            "tags": ""
+        },
+        {
+            "id": 271,
+            "nl": "de koningin",
+            "es": "la reina",
+            "tags": ""
+        },
+        {
+            "id": 272,
+            "nl": "de loper (schaken)",
+            "es": "el álfil",
+            "tags": ""
+        },
+        {
+            "id": 273,
+            "nl": "de toren (schaken)",
+            "es": "el torre",
+            "tags": ""
+        },
+        {
+            "id": 274,
+            "nl": "schaak",
+            "es": "jaque",
+            "tags": ""
+        },
+        {
+            "id": 275,
+            "nl": "schaakmat",
+            "es": "jaque mate",
+            "tags": ""
         }
     ]
 }
