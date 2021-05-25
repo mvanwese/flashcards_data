@@ -1353,8 +1353,8 @@
         },
         {
             "id": 226,
-            "nl": "ser",
-            "es": "zijn",
+            "nl": "zijn",
+            "es": "ser",
             "tags": "werkwoord"
         },
         {
@@ -1650,6 +1650,12 @@
             "nl": "schaakmat",
             "es": "jaque mate",
             "tags": ""
+        },
+        {
+            "id": 276,
+            "nl": "ik heb groene ogen",
+            "es": "tengo los ojos verdes",
+            "tags": "werkwoord"
         }
     ]
 }
