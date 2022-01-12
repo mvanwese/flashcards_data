@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2022-01-11",
+    "laatsteAanpassing": "2022-01-12",
     "vertalingen": [
 {"id":1, "fr":"comme", "nl":"zoals"},
 {"id":2, "fr":"je", "nl":"ik"},
@@ -1001,5 +1001,7 @@
 {"id":998, "fr":"colère", "nl":"woede"},
 {"id":999, "fr":"revendication", "nl":"vraag / eis"},
 {"id":1000, "fr":"continent", "nl":"continent"}
-]}
+
+]
+}
 
