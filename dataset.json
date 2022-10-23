@@ -1656,6 +1656,139 @@
             "nl": "ik heb groene ogen",
             "es": "tengo los ojos verdes",
             "tags": "werkwoord"
+        },
+        {
+            "id":276,
+            "nl": "de naam",
+            "es": "el nombre",
+            "tags:""
         }
+,
+        {
+            "id":277,
+            "nl": "hoe heet je",
+            "es": "¿Cómo te llamas?",
+            "tags:""
+        }
+,
+        {
+            "id":278,
+            "nl": "de woonplaats",
+            "es": "la residencia",
+            "tags:""
+        }
+,
+        {
+            "id":279,
+            "nl": "Waar woon je?",
+            "es": "¿Dónde vives?",
+            "tags:""
+        }
+,
+        {
+            "id":280,
+            "nl": "Ik woon in Lubbeek",
+            "es": "Vivo en Lubbeek",
+            "tags:""
+        }
+,
+        {
+            "id":281,
+            "nl": "Het beroep",
+            "es": "La profesión",
+            "tags:""
+        }
+,
+        {
+            "id":282,
+            "nl": "Wat is je werk?",
+            "es": "¿A qué te dedicas?",
+            "tags:""
+        }
+,
+        {
+            "id":283,
+            "nl": "Ik ben een muziekant",
+            "es": "Soy músico",
+            "tags:""
+        }
+,
+        {
+            "id":284,
+            "nl": "De leeftijd",
+            "es": "La edad",
+            "tags:""
+        }
+,
+        {
+            "id":285,
+            "nl": "Hoe oud ben je?",
+            "es": "¿Cuántos años tienes?",
+            "tags:""
+        }
+,
+        {
+            "id":286,
+            "nl": "Ik ben 9 jaar",
+            "es": "Tengo 9 años",
+            "tags:""
+        }
+,
+        {
+            "id":287,
+            "nl": "de nationaliteit",
+            "es": "la nacionalidad",
+            "tags:""
+        }
+,
+        {
+            "id":288,
+            "nl": "Van waar ben je?",
+            "es": "¿De dónde eres?",
+            "tags:""
+        }
+,
+        {
+            "id":289,
+            "nl": "Ik ben Spaans",
+            "es": "Soy español",
+            "tags:""
+        }
+,
+        {
+            "id":290,
+            "nl": "De telefoon",
+            "es": "El teléfono",
+            "tags:""
+        }
+,
+        {
+            "id":291,
+            "nl": "Wat is je telefoonnummer?",
+            "es": "¿Cuál es tu número de teléfono?",
+            "tags:""
+        }
+,
+        {
+            "id":292,
+            "nl": "De vragen",
+            "es": "Las preguntas",
+            "tags:""
+        }
+,
+        {
+            "id":293,
+            "nl": "De antwoorden",
+            "es": "Las respuestas",
+            "tags:""
+        }
+,
+        {
+            "id":294,
+            "nl": "De vampieren",
+            "es": "Los vampiros",
+            "tags:""
+        }
+,
     ]
 }
