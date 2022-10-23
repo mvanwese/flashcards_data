@@ -1789,6 +1789,201 @@
             "es": "Los vampiros",
             "tags:""
         }
+
+        {
+            "id":295,
+            "nl": "De hoofdstad",
+            "es": "La capital",
+            "tags:""
+        }
 ,
+        {
+            "id":296,
+            "nl": "De brandweerman",
+            "es": "El bombero",
+            "tags:""
+        }
+,
+        {
+            "id":297,
+            "nl": "Het continent",
+            "es": "El continente",
+            "tags:""
+        }
+,
+        {
+            "id":298,
+            "nl": "De moeder",
+            "es": "la madre",
+            "tags:""
+        }
+,
+        {
+            "id":299,
+            "nl": "De vader",
+            "es": "El padre",
+            "tags:""
+        }
+,
+        {
+            "id":300,
+            "nl": "De naam",
+            "es": "El nombre",
+            "tags:""
+        }
+,
+        {
+            "id":301,
+            "nl": "Het land",
+            "es": "El país",
+            "tags:""
+        }
+,
+        {
+            "id":302,
+            "nl": "Wat betekent ... ?",
+            "es": "¿Qué significa ... ?",
+            "tags:""
+        }
+,
+        {
+            "id":303,
+            "nl": "Ik heb een vraag",
+            "es": "Tengo una pregunta",
+            "tags:""
+        }
+,
+        {
+            "id":304,
+            "nl": "Ik begrijp het niet",
+            "es": "No lo entiendo",
+            "tags:""
+        }
+,
+        {
+            "id":305,
+            "nl": "Kan je het herhalen?",
+            "es": "¿Puedes repetirlo?",
+            "tags:""
+        }
+,
+        {
+            "id":306,
+            "nl": "Hoe zeg je?",
+            "es": "¿Cómo se dice ... ?",
+            "tags:""
+        }
+,
+        {
+            "id":307,
+            "nl": "Kan ik naar het toilet gaan?",
+            "es": "¿Puedo ir al baño?",
+            "tags:""
+        }
+,
+        {
+            "id":308,
+            "nl": "Kan ik het venster sluiten?",
+            "es": "¿Puedo abrir la ventana?",
+            "tags:""
+        }
+,
+        {
+            "id":309,
+            "nl": "Veel trager aub",
+            "es": "Más despacio, por favor",
+            "tags:""
+        }
+,
+        {
+            "id":310,
+            "nl": "Hoe schrijf je?",
+            "es": "¿Cómo se escribe?",
+            "tags:""
+        }
+,
+        {
+            "id":311,
+            "nl": "De olifant",
+            "es": "El elefante",
+            "tags:""
+        }
+,
+        {
+            "id":312,
+            "nl": "De hond",
+            "es": "el perro",
+            "tags:""
+        }
+,
+        {
+            "id":313,
+            "nl": "De kat",
+            "es": "El gato",
+            "tags:""
+        }
+,
+        {
+            "id":314,
+            "nl": "De koning",
+            "es": "El Rey",
+            "tags:""
+        }
+,
+        {
+            "id":315,
+            "nl": "De zoon",
+            "es": "El hijo",
+            "tags:""
+        }
+,
+        {
+            "id":316,
+            "nl": "De dochter",
+            "es": "La hija",
+            "tags:""
+        }
+,
+        {
+            "id":317,
+            "nl": "De vriend",
+            "es": "El amigo",
+            "tags:""
+        }
+,
+        {
+            "id":318,
+            "nl": "De vriendin",
+            "es": "La amiga",
+            "tags:""
+        }
+,
+        {
+            "id":319,
+            "nl": "En",
+            "es": "Y",
+            "tags:""
+        }
+,
+        {
+            "id":320,
+            "nl": "Of",
+            "es": "O",
+            "tags:""
+        }
+,
+        {
+            "id":321,
+            "nl": "Maar",
+            "es": "Pero",
+            "tags:""
+        }
+,
+        {
+            "id":322,
+            "nl": "Ook",
+            "es": "También",
+            "tags:""
+        }
     ]
 }
