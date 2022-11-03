@@ -1977,13 +1977,85 @@
             "nl": "Maar",
             "es": "Pero",
             "tags":""
-        }
-,
+        },
         {
             "id":322,
             "nl": "Ook",
             "es": "También",
             "tags":""
+        },
+        {
+            "id":323,
+            "nl": "Oefening",
+            "es": "Ejercicio",
+            "tags":""
+        },
+        {
+            "id":324,
+            "nl": "luisteren",
+            "es": "escuchar",
+            "tags":""
+        },
+        {
+            "id":325,
+            "nl": "de woorden",
+            "es": "las palabras",
+            "tags":""
+        },
+        {
+            "id":326,
+            "nl": "aankruisen",
+            "es": "marcar",
+            "tags":""
+        },
+        {
+            "id":327,
+            "nl": "de weg",
+            "es": "el camino",
+            "tags":""
+        },
+        {
+            "id":328,
+            "nl": "tekenen",
+            "es": "dibujar",
+            "tags":""
+        },
+        {
+            "id":329,
+            "nl": "goalkeeper",
+            "es": "el portero",
+            "tags":""
+        },
+        {
+            "id":330,
+            "nl": "de bal",
+            "es": "la pelota",
+            "tags":""
+        },
+        {
+            "id":331,
+            "nl": "uitspreken",
+            "es": "pronunciar",
+            "tags":""
+        },
+        {
+            "id":332,
+            "nl": "de kleine",
+            "es": "el pequeño",
+            "tags":""
+        },
+        {
+            "id":333,
+            "nl": "zingen",
+            "es": "cantar",
+            "tags":""
+        },
+        {
+            "id":334,
+            "nl": "gitaar spelen",
+            "es": "tocar la guitarra",
+            "tags":""
         }
+        
     ]
 }
