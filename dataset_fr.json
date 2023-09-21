@@ -2,7 +2,8 @@
     "laatsteAanpassing": "2023-09-21",
     "vertalingen": [
 {"id":1, "fr":"comme", "nl":"zoals", "tags":""},
-{"id":2, "fr":"je", "nl":"ik", "tags":""}
+{"id":2, "fr":"je", "nl":"ik", "tags":""},
+{"id":3, "fr":"tu", "nl":"jij", "tags":""}
 
 ]
 }
