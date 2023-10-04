@@ -1,10 +1,131 @@
 {
-    "laatsteAanpassing": "2023-09-21",
+    "laatsteAanpassing": "2023-10-04",
     "vertalingen": [
-{"id":1, "fr":"comme", "nl":"zoals", "tags":""},
-{"id":2, "fr":"je", "nl":"ik", "tags":""},
-{"id":3, "fr":"tu", "nl":"jij", "tags":""}
-
-]
+        {
+            "id": 1,
+            "fr": "comme",
+            "nl": "zoals",
+            "tags": ""
+        },
+        {
+            "id": 2,
+            "fr": "je",
+            "nl": "ik",
+            "tags": ""
+        },
+        {
+            "id": 3,
+            "fr": "tu",
+            "nl": "jij",
+            "tags": ""
+        },
+        {
+            "id": 4,
+            "fr": "huit",
+            "nl": "acht",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 5,
+            "fr": "Tu es Camille?",
+            "nl": "Ben jij Camille?",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 6,
+            "fr": "trois",
+            "nl": "drie",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 7,
+            "fr": "Moi, je suis Ahmed",
+            "nl": "Ik, ik ben Ahmed",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 8,
+            "fr": "cinq",
+            "nl": "vijf",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 9,
+            "fr": "non",
+            "nl": "nee",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 10,
+            "fr": "deux",
+            "nl": "twee",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 11,
+            "fr": "oui",
+            "nl": "ja",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 12,
+            "fr": "six",
+            "nl": "zes",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 13,
+            "fr": "Et toi?",
+            "nl": "En jij?",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 14,
+            "fr": "neuf",
+            "nl": "negen",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 15,
+            "fr": "Je suis Ellen",
+            "nl": "Ik ben Ellen",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 16,
+            "fr": "dix",
+            "nl": "tien",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 17,
+            "fr": "sept",
+            "nl": "zeven",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 18,
+            "fr": "bonjour",
+            "nl": "goedendag",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 19,
+            "fr": "un",
+            "nl": "een",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 20,
+            "fr": "Tu es Manon!",
+            "nl": "Jij bent Manon!",
+            "tags": ", chapter 1"
+        },
+        {
+            "id": 21,
+            "fr": "quatre",
+            "nl": "vier",
+            "tags": ", chapter 1"
+        }
+    ]
 }
-
