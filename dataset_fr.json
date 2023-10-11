@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2023-10-04",
+    "laatsteAanpassing": "2023-10-11",
     "vertalingen": [
         {
             "id": 1,
@@ -420,6 +420,114 @@
             "fr": "ton copain",
             "nl": "jouw vriend",
             "tags": ", chapter 4"
+        },
+        {
+            "id": 71,
+            "fr": "Julie est jeune",
+            "nl": "Julie is jong",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 72,
+            "fr": "Ce n'est pas un stylo",
+            "nl": "Dit is geen pen",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 73,
+            "fr": "Yves est chouette",
+            "nl": "Yves is tof",
+            "tags": ", chapter trueC"
+        },
+        {
+            "id": 74,
+            "fr": "Christian est grand",
+            "nl": "Christian is groot",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 75,
+            "fr": "Marie est grande",
+            "nl": "Marie is groot",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 76,
+            "fr": "Laurentine est contente",
+            "nl": "Laurentine is tevreden, blij",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 77,
+            "fr": "Victor est fort",
+            "nl": "Victor is sterk",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 78,
+            "fr": "Louis est triste",
+            "nl": "Louis is droevig, triestig",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 79,
+            "fr": "Je ne suis pas content",
+            "nl": "Ik ben niet tevreden",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 80,
+            "fr": "Eric est formidable",
+            "nl": "Eric is geweldig",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 81,
+            "fr": "Denise est petite",
+            "nl": "Denise is klein",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 82,
+            "fr": "Jules est jeune",
+            "nl": "Jules is jong",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 83,
+            "fr": "Louise est triste",
+            "nl": "Louise is droevig, triestig",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 84,
+            "fr": "Denis est petit",
+            "nl": "Denis is klein",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 85,
+            "fr": "Yvette est chouette",
+            "nl": "Yvette is tof",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 86,
+            "fr": "Laurent est content",
+            "nl": "Laurent is tevreden, blij",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 87,
+            "fr": "Victorine est forte",
+            "nl": "Victorine is sterk",
+            "tags": ", chapter 5"
+        },
+        {
+            "id": 88,
+            "fr": "Erica est formidable",
+            "nl": "Erica is geweldig",
+            "tags": ", chapter 5"
         }
     ]
 }
