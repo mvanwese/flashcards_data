@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2023-10-11",
+    "laatsteAanpassing": "2023-10-23",
     "vertalingen": [
         {
             "id": 1,
@@ -528,6 +528,246 @@
             "fr": "Erica est formidable",
             "nl": "Erica is geweldig",
             "tags": ", chapter 5"
+        },
+        {
+            "id": 89,
+            "fr": "mars",
+            "nl": "maart",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 90,
+            "fr": "Bonne année!",
+            "nl": "Gelukkig nieuwjaar!",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 91,
+            "fr": "juin",
+            "nl": "juni",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 92,
+            "fr": "C'est quand, ton anniversaire?",
+            "nl": "Wanneer is jouw verjaardag?",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 93,
+            "fr": "vingt et un",
+            "nl": "éénentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 94,
+            "fr": "septembre",
+            "nl": "september",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 95,
+            "fr": "août",
+            "nl": "augustus",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 96,
+            "fr": "Aujourd'hui, nous sommes ...",
+            "nl": "Vandaag zijn we ...",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 97,
+            "fr": "un anniversaire",
+            "nl": "une anniversaire",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 98,
+            "fr": "vingt-sept",
+            "nl": "zevenentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 99,
+            "fr": "vingt-six",
+            "nl": "zesentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 100,
+            "fr": "le deux janvier, le trois janvier",
+            "nl": "de tweede januari, de derde januari",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 101,
+            "fr": "novembre",
+            "nl": "november",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 102,
+            "fr": "vingt-trois",
+            "nl": "drieëntwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 103,
+            "fr": "décembre",
+            "nl": "december",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 104,
+            "fr": "vingt-quatre",
+            "nl": "vierentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 105,
+            "fr": "une fête",
+            "nl": "een feest(dag)",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 106,
+            "fr": "vingt-neuf",
+            "nl": "negenentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 107,
+            "fr": "le carnaval",
+            "nl": "carnaval",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 108,
+            "fr": "trente",
+            "nl": "dertig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 109,
+            "fr": "les vacances",
+            "nl": "de vakantie",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 110,
+            "fr": "Pâques",
+            "nl": "Pasen",
+            "tags": ", chapter tru"
+        },
+        {
+            "id": 111,
+            "fr": "janvier",
+            "nl": "januari",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 112,
+            "fr": "Noël",
+            "nl": "Kerstmis",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 113,
+            "fr": "le premier janvier",
+            "nl": "de eerste januari",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 114,
+            "fr": "vingt-cinq",
+            "nl": "vijfentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 115,
+            "fr": "mai",
+            "nl": "mei",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 116,
+            "fr": "aujourd'hui",
+            "nl": "vandaag",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 117,
+            "fr": "février",
+            "nl": "februari",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 118,
+            "fr": "Joyeux Noël!",
+            "nl": "Vrolijk kerstfeest!",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 119,
+            "fr": "trente et un",
+            "nl": "éénendertig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 120,
+            "fr": "une date",
+            "nl": "een datum",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 121,
+            "fr": "le nouvel an",
+            "nl": "nieuwjaar",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 122,
+            "fr": "vingt-huit",
+            "nl": "achtentwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 123,
+            "fr": "octobre",
+            "nl": "oktober",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 124,
+            "fr": "vingt-deux",
+            "nl": "tweeëntwintig",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 125,
+            "fr": "juillet",
+            "nl": "juli",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 126,
+            "fr": "Quelle est la date?",
+            "nl": "Wat is de datum?",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 127,
+            "fr": "avril",
+            "nl": "april",
+            "tags": ", chapter 6"
+        },
+        {
+            "id": 128,
+            "fr": "quand?",
+            "nl": "wanneer?",
+            "tags": ", chapter 6"
         }
     ]
 }
