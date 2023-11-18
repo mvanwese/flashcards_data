@@ -1,5 +1,5 @@
 {
-    "laatsteAanpassing": "2023-10-23",
+    "laatsteAanpassing": "2023-11-18",
     "vertalingen": [
         {
             "id": 1,
@@ -768,6 +768,396 @@
             "fr": "quand?",
             "nl": "wanneer?",
             "tags": ", chapter 6"
+        },
+        {
+            "id": 129,
+            "fr": "un ballon de foot",
+            "nl": "een voetbal",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 130,
+            "fr": "un CD",
+            "nl": "een cd",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 131,
+            "fr": "un cadeau",
+            "nl": "een geschenk",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 132,
+            "fr": "een jeu",
+            "nl": "een spel",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 133,
+            "fr": "un livre",
+            "nl": "een boek",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 134,
+            "fr": "Bon anniversaire",
+            "nl": "Gelukkige verjaardag",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 135,
+            "fr": "Salut!",
+            "nl": "Dag! Hallo!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 136,
+            "fr": "Denise est (méga) cool!",
+            "nl": "Denise is (kei) tof, cool, reuze!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 137,
+            "fr": "Yves est sympa!",
+            "nl": "Yves is sympathiek, aardig!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 138,
+            "fr": "Merci beaucoup!",
+            "nl": "Hartelijk bedankt!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 139,
+            "fr": "très (content)",
+            "nl": "zeer, heel, erg (blij)",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 140,
+            "fr": "Denis est (méga) cool",
+            "nl": "Denis is (kei) tof, cool, reuze!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 141,
+            "fr": "pour moi",
+            "nl": "voor mij",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 142,
+            "fr": "pour toi",
+            "nl": "voor jou",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 143,
+            "fr": "Yvette est sympa!",
+            "nl": "Yvette is sympathiek, aardig!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 144,
+            "fr": "J'ai un CD",
+            "nl": "Ik heb een cd",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 145,
+            "fr": "Julien est super!",
+            "nl": "Julien is geweldig, schitterend!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 146,
+            "fr": "avoir",
+            "nl": "hebben",
+            "tags": "werkwoord, chapter 7"
+        },
+        {
+            "id": 147,
+            "fr": "Elle a un copain",
+            "nl": "Ze heeft een vriend",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 148,
+            "fr": "Tu as mon livre",
+            "nl": "Je hebt mijn boek",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 149,
+            "fr": "Julia est super!",
+            "nl": "Julia is geweldig, schitterend!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 150,
+            "fr": "un T-shirt",
+            "nl": "een T-shirt",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 151,
+            "fr": "un DVD",
+            "nl": "een dvd",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 152,
+            "fr": "De rien!",
+            "nl": "Geen dank, graag gedaan!",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 153,
+            "fr": "Que'est-ce que c'est?",
+            "nl": "Wat is het?",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 154,
+            "fr": "Il a une copine",
+            "nl": "Hij heeft een vriendin",
+            "tags": ", chapter 7"
+        },
+        {
+            "id": 155,
+            "fr": "des élèves",
+            "nl": "leerlingen",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 156,
+            "fr": "une élève",
+            "nl": "een leerlinge",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 157,
+            "fr": "des cahiers",
+            "nl": "schriften",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 158,
+            "fr": "un élève",
+            "nl": "een leerling",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 159,
+            "fr": "des tables",
+            "nl": "tafels",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 160,
+            "fr": "une classe",
+            "nl": "een klas, klaslokaal",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 161,
+            "fr": "Qu'est-ce qu'il y a?",
+            "nl": "Wat is er?",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 162,
+            "fr": "un T-shirt rouge",
+            "nl": "een rood T-shirt",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 163,
+            "fr": "Il y a ...",
+            "nl": "Er is, er zijn, er staat, er staan ...",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 164,
+            "fr": "une chaise rouge",
+            "nl": "een rode stoel",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 165,
+            "fr": "dans ma classe",
+            "nl": "in mijn klas",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 166,
+            "fr": "un tableau vert",
+            "nl": "een groen (school)bord",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 167,
+            "fr": "sur ma table",
+            "nl": "op mijn tafel",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 168,
+            "fr": "une porte verte",
+            "nl": "een groene deur",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 169,
+            "fr": "un prof",
+            "nl": "een leerkracht, leraar",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 170,
+            "fr": "un tableau noir",
+            "nl": "een zwart (school)bord",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 171,
+            "fr": "une prof",
+            "nl": "een leerkracht, lerares",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 172,
+            "fr": "un porte noire",
+            "nl": "een zwarte deur",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 173,
+            "fr": "un tableau",
+            "nl": "een (school)bord",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 174,
+            "fr": "un T-shirt bleu",
+            "nl": "een blauw T-shirt",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 175,
+            "fr": "un chaise bleue",
+            "nl": "een blauwe stoel",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 176,
+            "fr": "un chahier",
+            "nl": "een schrift",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 177,
+            "fr": "des cahiers rouges",
+            "nl": "rode schriften",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 178,
+            "fr": "un ordinateur",
+            "nl": "een computer",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 179,
+            "fr": "des copines fortes",
+            "nl": "sterke vriendinnen",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 180,
+            "fr": "une radio",
+            "nl": "een radio",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 181,
+            "fr": "des tables rouges",
+            "nl": "rode tafels",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 182,
+            "fr": "un bureau",
+            "nl": "een bureau",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 183,
+            "fr": "des bureaux",
+            "nl": "bureaus",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 184,
+            "fr": "une table",
+            "nl": "een tafel",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 185,
+            "fr": "des cadeaux",
+            "nl": "cadeaus",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 186,
+            "fr": "une armoire",
+            "nl": "een kast",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 187,
+            "fr": "des armoires",
+            "nl": "kasten",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 188,
+            "fr": "une chaise",
+            "nl": "een stoel",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 189,
+            "fr": "des tableaux",
+            "nl": "(school)borden",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 190,
+            "fr": "une porte",
+            "nl": "een deur",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 191,
+            "fr": "des jeux",
+            "nl": "spellen",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 192,
+            "fr": "des copains forts",
+            "nl": "sterke vrienden",
+            "tags": ", chapter 8"
+        },
+        {
+            "id": 193,
+            "fr": "une fenêtre",
+            "nl": "een raam",
+            "tags": ", chapter 8"
         }
     ]
 }
