@@ -1,1163 +1,2061 @@
 {
-    "laatsteAanpassing": "2023-11-18",
+    "laatsteAanpassing": "2022-10-23",
     "vertalingen": [
         {
             "id": 1,
-            "fr": "comme",
-            "nl": "zoals",
+            "nl": "maandag",
+            "es": "lunes",
             "tags": ""
         },
         {
             "id": 2,
-            "fr": "je",
-            "nl": "ik",
+            "nl": "zaterdag",
+            "es": "sábado",
             "tags": ""
         },
         {
             "id": 3,
-            "fr": "tu",
-            "nl": "jij",
+            "nl": "de herfst",
+            "es": "el otoño",
             "tags": ""
         },
         {
             "id": 4,
-            "fr": "huit",
-            "nl": "acht",
-            "tags": ", chapter 1"
+            "nl": "mei",
+            "es": "mayo",
+            "tags": ""
         },
         {
             "id": 5,
-            "fr": "Tu es Camille?",
-            "nl": "Ben jij Camille?",
-            "tags": ", chapter 1"
+            "nl": "oktober",
+            "es": "octubre",
+            "tags": ""
         },
         {
             "id": 6,
-            "fr": "trois",
-            "nl": "drie",
-            "tags": ", chapter 1"
+            "nl": "geel",
+            "es": "amarillo",
+            "tags": ""
         },
         {
             "id": 7,
-            "fr": "Moi, je suis Ahmed",
-            "nl": "Ik, ik ben Ahmed",
-            "tags": ", chapter 1"
+            "nl": "de regenboog",
+            "es": "el arcoíris",
+            "tags": ""
         },
         {
             "id": 8,
-            "fr": "cinq",
-            "nl": "vijf",
-            "tags": ", chapter 1"
+            "nl": "de bij",
+            "es": "la abeja",
+            "tags": ""
         },
         {
             "id": 9,
-            "fr": "non",
-            "nl": "nee",
-            "tags": ", chapter 1"
+            "nl": "de zeehond",
+            "es": "la foca",
+            "tags": ""
         },
         {
             "id": 10,
-            "fr": "deux",
-            "nl": "twee",
-            "tags": ", chapter 1"
+            "nl": "de koala",
+            "es": "el koala",
+            "tags": ""
         },
         {
             "id": 11,
-            "fr": "oui",
-            "nl": "ja",
-            "tags": ", chapter 1"
+            "nl": "het schaap",
+            "es": "la oveja",
+            "tags": ""
         },
         {
             "id": 12,
-            "fr": "six",
-            "nl": "zes",
-            "tags": ", chapter 1"
+            "nl": "de tijger",
+            "es": "el tigre",
+            "tags": ""
         },
         {
             "id": 13,
-            "fr": "Et toi?",
-            "nl": "En jij?",
-            "tags": ", chapter 1"
+            "nl": "de yacht",
+            "es": "el yate",
+            "tags": ""
         },
         {
             "id": 14,
-            "fr": "neuf",
-            "nl": "negen",
-            "tags": ", chapter 1"
+            "nl": "dinsdag",
+            "es": "martes",
+            "tags": ""
         },
         {
             "id": 15,
-            "fr": "Je suis Ellen",
-            "nl": "Ik ben Ellen",
-            "tags": ", chapter 1"
+            "nl": "zondag",
+            "es": "domingo",
+            "tags": ""
         },
         {
             "id": 16,
-            "fr": "dix",
-            "nl": "tien",
-            "tags": ", chapter 1"
+            "nl": "januari",
+            "es": "enero",
+            "tags": ""
         },
         {
             "id": 17,
-            "fr": "sept",
-            "nl": "zeven",
-            "tags": ", chapter 1"
+            "nl": "juni",
+            "es": "junio",
+            "tags": ""
         },
         {
             "id": 18,
-            "fr": "bonjour",
-            "nl": "goedendag",
-            "tags": ", chapter 1"
+            "nl": "november",
+            "es": "noviembre",
+            "tags": ""
         },
         {
             "id": 19,
-            "fr": "un",
-            "nl": "een",
-            "tags": ", chapter 1"
+            "nl": "blauw",
+            "es": "azul",
+            "tags": ""
         },
         {
             "id": 20,
-            "fr": "Tu es Manon!",
-            "nl": "Jij bent Manon!",
-            "tags": ", chapter 1"
+            "nl": "de boom",
+            "es": "el árbol",
+            "tags": ""
         },
         {
             "id": 21,
-            "fr": "quatre",
-            "nl": "vier",
-            "tags": ", chapter 1"
+            "nl": "de kus",
+            "es": "el beso",
+            "tags": ""
         },
         {
             "id": 22,
-            "fr": "Tu es d'où?",
-            "nl": "Vanwaar ben je?",
-            "tags": ", chapter 2"
+            "nl": "de kat",
+            "es": "el gato",
+            "tags": ""
         },
         {
             "id": 23,
-            "fr": "d'où?",
-            "nl": "vanwaar?",
-            "tags": ", chapter 2"
+            "nl": "de leeuw",
+            "es": "el león",
+            "tags": ""
         },
         {
             "id": 24,
-            "fr": "ça va bien",
-            "nl": "het gaat goed",
-            "tags": ", chapter 2"
+            "nl": "de hond",
+            "es": "el perro",
+            "tags": ""
         },
         {
             "id": 25,
-            "fr": "ça va?",
-            "nl": "gaat het?",
-            "tags": ", chapter 2"
+            "nl": "de druif",
+            "es": "la uva",
+            "tags": ""
         },
         {
             "id": 26,
-            "fr": "merci",
-            "nl": "dank je",
-            "tags": ", chapter 2"
+            "nl": "de wortel",
+            "es": "la zanahoria",
+            "tags": ""
         },
         {
             "id": 27,
-            "fr": "C'est chouette",
-            "nl": "Dat is tof",
-            "tags": ", chapter 2"
+            "nl": "woensdag",
+            "es": "miércoles",
+            "tags": ""
         },
         {
             "id": 28,
-            "fr": "bien",
-            "nl": "goed",
-            "tags": ", chapter 2"
+            "nl": "de zomer",
+            "es": "el verano",
+            "tags": ""
         },
         {
             "id": 29,
-            "fr": "de Liège",
-            "nl": "van Luik",
-            "tags": ", chapter 2"
+            "nl": "februari",
+            "es": "febrero",
+            "tags": ""
         },
         {
             "id": 30,
-            "fr": "d'Aarschot",
-            "nl": "van Aarschot",
-            "tags": ", chapter 2"
+            "nl": "juli",
+            "es": "julio",
+            "tags": ""
         },
         {
             "id": 31,
-            "fr": "dix-huit",
-            "nl": "achttien",
-            "tags": ", chapter 3"
+            "nl": "december",
+            "es": "diciembre",
+            "tags": ""
         },
         {
             "id": 32,
-            "fr": "quatorze",
-            "nl": "veertien",
-            "tags": ", chapter 3"
+            "nl": "oranje",
+            "es": "naranja",
+            "tags": ""
         },
         {
             "id": 33,
-            "fr": "treize",
-            "nl": "dertien",
-            "tags": ", chapter 3"
+            "nl": "de citroen",
+            "es": "el lemón",
+            "tags": ""
         },
         {
             "id": 34,
-            "fr": "Lucas et Ria",
-            "nl": "Lucas en Ria",
-            "tags": ", chapter 3"
+            "nl": "het paard",
+            "es": "el caballo",
+            "tags": ""
         },
         {
             "id": 35,
-            "fr": "douze",
-            "nl": "twaalf",
-            "tags": ", chapter 3"
+            "nl": "het ijsje",
+            "es": "el helado",
+            "tags": ""
         },
         {
             "id": 36,
-            "fr": "onze",
-            "nl": "elf",
-            "tags": ", chapter 3"
+            "nl": "de appel",
+            "es": "la manzana",
+            "tags": ""
         },
         {
             "id": 37,
-            "fr": "Qu'est-ce que tu cherches?",
-            "nl": "Wat zoek je?",
-            "tags": ", chapter 3"
+            "nl": "de kaas",
+            "es": "el queso",
+            "tags": ""
         },
         {
             "id": 38,
-            "fr": "un crayon",
-            "nl": "een potlood",
-            "tags": ", chapter 3"
+            "nl": "de viool",
+            "es": "el violín",
+            "tags": ""
         },
         {
             "id": 39,
-            "fr": "Je cherche un stylo",
-            "nl": "Ik zoek een pen",
-            "tags": ", chapter 3"
+            "nl": "hallo!",
+            "es": "¡hola!",
+            "tags": ""
         },
         {
             "id": 40,
-            "fr": "seize",
-            "nl": "zestien",
-            "tags": ", chapter 3"
+            "nl": "donderdag",
+            "es": "jueves",
+            "tags": ""
         },
         {
             "id": 41,
-            "fr": "une gomme",
-            "nl": "een gom",
-            "tags": ", chapter 3"
+            "nl": "de winter",
+            "es": "el invierno",
+            "tags": ""
         },
         {
             "id": 42,
-            "fr": "quinze",
-            "nl": "vijftien",
-            "tags": ", chapter 3"
+            "nl": "maart",
+            "es": "marzo",
+            "tags": ""
         },
         {
             "id": 43,
-            "fr": "dix-neuf",
-            "nl": "negentien",
-            "tags": ", chapter 3"
+            "nl": "augustus",
+            "es": "agosto",
+            "tags": ""
         },
         {
             "id": 44,
-            "fr": "dix-sept",
-            "nl": "zeventien",
-            "tags": ", chapter 3"
+            "nl": "rood",
+            "es": "rojo",
+            "tags": ""
         },
         {
             "id": 45,
-            "fr": "vingt",
-            "nl": "twintig",
-            "tags": ", chapter 3"
+            "nl": "paars",
+            "es": "morado",
+            "tags": ""
         },
         {
             "id": 46,
-            "fr": "un stylo",
-            "nl": "een pen",
-            "tags": ", chapter 3"
+            "nl": "de lucht",
+            "es": "el cielo",
+            "tags": ""
         },
         {
             "id": 47,
-            "fr": "une feuille",
-            "nl": "een blad",
-            "tags": ", chapter 3"
+            "nl": "de dinosaurus",
+            "es": "el dinosaurio",
+            "tags": ""
         },
         {
             "id": 48,
-            "fr": "Voici un stylo",
-            "nl": "Ziehier, hier heb je een pen",
-            "tags": ", chapter 3"
+            "nl": "het eiland",
+            "es": "la isla",
+            "tags": ""
         },
         {
             "id": 49,
-            "fr": "Je cherche aussi une gomme",
-            "nl": "Ik zoek ook een gom",
-            "tags": ", chapter 3"
+            "nl": "nee",
+            "es": "no",
+            "tags": ""
         },
         {
             "id": 50,
-            "fr": "une fille",
-            "nl": "een meisje",
-            "tags": ", chapter 4"
+            "nl": "de rat",
+            "es": "el ratón",
+            "tags": ""
         },
         {
             "id": 51,
-            "fr": "un père",
-            "nl": "een vader",
-            "tags": ", chapter 4"
+            "nl": "de webcam",
+            "es": "la webcam",
+            "tags": ""
         },
         {
             "id": 52,
-            "fr": "une famille",
-            "nl": "een gezin",
-            "tags": ", chapter 4"
+            "nl": "goede dag!",
+            "es": "¡buenos días!",
+            "tags": ""
         },
         {
             "id": 53,
-            "fr": "C'est qui?",
-            "nl": "Wie is het?",
-            "tags": ", chapter 4"
+            "nl": "vrijdag",
+            "es": "viernes",
+            "tags": ""
         },
         {
             "id": 54,
-            "fr": "une soeur",
-            "nl": "een zus",
-            "tags": ", chapter 4"
+            "nl": "de lente",
+            "es": "la primavera",
+            "tags": ""
         },
         {
             "id": 55,
-            "fr": "Elle est chouette",
-            "nl": "Ze is tof",
-            "tags": ", chapter 4"
+            "nl": "april",
+            "es": "abril",
+            "tags": ""
         },
         {
             "id": 56,
-            "fr": "un frère",
-            "nl": "een broer",
-            "tags": ", chapter 4"
+            "nl": "september",
+            "es": "septiembre",
+            "tags": ""
         },
         {
             "id": 57,
-            "fr": "mon père",
-            "nl": "mijn vader",
-            "tags": ", chapter 4"
+            "nl": "groen",
+            "es": "verde",
+            "tags": ""
         },
         {
             "id": 58,
-            "fr": "un copain",
-            "nl": "een vriend",
-            "tags": ", chapter 4"
+            "nl": "roze",
+            "es": "rosa",
+            "tags": ""
         },
         {
             "id": 59,
-            "fr": "ma mère",
-            "nl": "mijn moeder",
-            "tags": ", chapter 4"
+            "nl": "de bloem",
+            "es": "la flor",
+            "tags": ""
         },
         {
             "id": 60,
-            "fr": "Tu es ma copine",
-            "nl": "Jij bent mijn vriendin",
-            "tags": ", chapter 4"
+            "nl": "de olifant",
+            "es": "el elefante",
+            "tags": ""
         },
         {
             "id": 61,
-            "fr": "un papa",
-            "nl": "een papa",
-            "tags": ", chapter 4"
+            "nl": "het sap",
+            "es": "el jugo",
+            "tags": ""
         },
         {
             "id": 62,
-            "fr": "une copine",
-            "nl": "een vriendin",
-            "tags": ", chapter 4"
+            "nl": "de nerd",
+            "es": "el ñoño",
+            "tags": ""
         },
         {
             "id": 63,
-            "fr": "une maman",
-            "nl": "een moeder",
-            "tags": ", chapter 4"
+            "nl": "ja",
+            "es": "sí",
+            "tags": ""
         },
         {
             "id": 64,
-            "fr": "un garçon",
-            "nl": "een jongen",
-            "tags": ", chapter 4"
+            "nl": "de xylofoon",
+            "es": "el xilófono",
+            "tags": ""
         },
         {
             "id": 65,
-            "fr": "C'est mon père",
-            "nl": "Het is mijn vader",
-            "tags": ", chapter 4"
+            "nl": "hoe gaat het met jou?",
+            "es": "¿cómo estás?",
+            "tags": "werkwoord"
         },
         {
             "id": 66,
-            "fr": "une mère",
-            "nl": "een moeder",
-            "tags": ", chapter 4"
+            "nl": "het gaat goed met mij",
+            "es": "estoy bien",
+            "tags": "werkwoord"
         },
         {
             "id": 67,
-            "fr": "Je suis Marcel",
-            "nl": "Ik ben Marcel",
-            "tags": ", chapter 4"
+            "nl": "de mama",
+            "es": "la madre",
+            "tags": ""
         },
         {
             "id": 68,
-            "fr": "Il est d'Arlon",
-            "nl": "Hij is van Aarlen",
-            "tags": ", chapter 4"
+            "nl": "de hond",
+            "es": "el perro",
+            "tags": ""
         },
         {
             "id": 69,
-            "fr": "ta copine",
-            "nl": "jouw vriendin",
-            "tags": ", chapter 4"
+            "nl": "de tante",
+            "es": "la tía",
+            "tags": ""
         },
         {
             "id": 70,
-            "fr": "ton copain",
-            "nl": "jouw vriend",
-            "tags": ", chapter 4"
+            "nl": "ik ben",
+            "es": "yo soy",
+            "tags": "werkwoord"
         },
         {
             "id": 71,
-            "fr": "Julie est jeune",
-            "nl": "Julie is jong",
-            "tags": ", chapter 5"
+            "nl": "wij zijn",
+            "es": "nosotros somos",
+            "tags": "werkwoord"
         },
         {
             "id": 72,
-            "fr": "Ce n'est pas un stylo",
-            "nl": "Dit is geen pen",
-            "tags": ", chapter 5"
+            "nl": "twee",
+            "es": "dos",
+            "tags": ""
         },
         {
             "id": 73,
-            "fr": "Yves est chouette",
-            "nl": "Yves is tof",
-            "tags": ", chapter trueC"
+            "nl": "zeven",
+            "es": "siete",
+            "tags": ""
         },
         {
             "id": 74,
-            "fr": "Christian est grand",
-            "nl": "Christian is groot",
-            "tags": ", chapter 5"
+            "nl": "twaalf",
+            "es": "doce",
+            "tags": ""
         },
         {
             "id": 75,
-            "fr": "Marie est grande",
-            "nl": "Marie is groot",
-            "tags": ", chapter 5"
+            "nl": "zeventien",
+            "es": "diecisiete",
+            "tags": ""
         },
         {
             "id": 76,
-            "fr": "Laurentine est contente",
-            "nl": "Laurentine is tevreden, blij",
-            "tags": ", chapter 5"
+            "nl": "wit",
+            "es": "blanco",
+            "tags": ""
         },
         {
             "id": 77,
-            "fr": "Victor est fort",
-            "nl": "Victor is sterk",
-            "tags": ", chapter 5"
+            "nl": "het gaat slecht met mij",
+            "es": "estoy mal",
+            "tags": ""
         },
         {
             "id": 78,
-            "fr": "Louis est triste",
-            "nl": "Louis is droevig, triestig",
-            "tags": ", chapter 5"
+            "nl": "de papa",
+            "es": "el padre",
+            "tags": ""
         },
         {
             "id": 79,
-            "fr": "Je ne suis pas content",
-            "nl": "Ik ben niet tevreden",
-            "tags": ", chapter 5"
+            "nl": "de kat",
+            "es": "el gato",
+            "tags": ""
         },
         {
             "id": 80,
-            "fr": "Eric est formidable",
-            "nl": "Eric is geweldig",
-            "tags": ", chapter 5"
+            "nl": "de opa",
+            "es": "el abuelo",
+            "tags": ""
         },
         {
             "id": 81,
-            "fr": "Denise est petite",
-            "nl": "Denise is klein",
-            "tags": ", chapter 5"
+            "nl": "jij bent",
+            "es": "tú eres",
+            "tags": "werkwoord"
         },
         {
             "id": 82,
-            "fr": "Jules est jeune",
-            "nl": "Jules is jong",
-            "tags": ", chapter 5"
+            "nl": "jullie zijn",
+            "es": "vosotros sois",
+            "tags": "werkwoord"
         },
         {
             "id": 83,
-            "fr": "Louise est triste",
-            "nl": "Louise is droevig, triestig",
-            "tags": ", chapter 5"
+            "nl": "drie",
+            "es": "tres",
+            "tags": ""
         },
         {
             "id": 84,
-            "fr": "Denis est petit",
-            "nl": "Denis is klein",
-            "tags": ", chapter 5"
+            "nl": "acht",
+            "es": "ocho",
+            "tags": ""
         },
         {
             "id": 85,
-            "fr": "Yvette est chouette",
-            "nl": "Yvette is tof",
-            "tags": ", chapter 5"
+            "nl": "dertien",
+            "es": "trece",
+            "tags": ""
         },
         {
             "id": 86,
-            "fr": "Laurent est content",
-            "nl": "Laurent is tevreden, blij",
-            "tags": ", chapter 5"
+            "nl": "achttien",
+            "es": "dieciocho",
+            "tags": ""
         },
         {
             "id": 87,
-            "fr": "Victorine est forte",
-            "nl": "Victorine is sterk",
-            "tags": ", chapter 5"
+            "nl": "zwart",
+            "es": "negro",
+            "tags": ""
         },
         {
             "id": 88,
-            "fr": "Erica est formidable",
-            "nl": "Erica is geweldig",
-            "tags": ", chapter 5"
+            "nl": "ik heet Mathias",
+            "es": "me llamo Mathias",
+            "tags": ""
         },
         {
             "id": 89,
-            "fr": "mars",
-            "nl": "maart",
-            "tags": ", chapter 6"
+            "nl": "de broer",
+            "es": "el hermano",
+            "tags": ""
         },
         {
             "id": 90,
-            "fr": "Bonne année!",
-            "nl": "Gelukkig nieuwjaar!",
-            "tags": ", chapter 6"
+            "nl": "de vriend",
+            "es": "el amigo",
+            "tags": ""
         },
         {
             "id": 91,
-            "fr": "juin",
-            "nl": "juni",
-            "tags": ", chapter 6"
+            "nl": "de oma",
+            "es": "la abuela",
+            "tags": ""
         },
         {
             "id": 92,
-            "fr": "C'est quand, ton anniversaire?",
-            "nl": "Wanneer is jouw verjaardag?",
-            "tags": ", chapter 6"
+            "nl": "hij is",
+            "es": "él es",
+            "tags": "werkwoord"
         },
         {
             "id": 93,
-            "fr": "vingt et un",
-            "nl": "éénentwintig",
-            "tags": ", chapter 6"
+            "nl": "zij zijn",
+            "es": "ellos son",
+            "tags": "werkwoord"
         },
         {
             "id": 94,
-            "fr": "septembre",
-            "nl": "september",
-            "tags": ", chapter 6"
+            "nl": "vier",
+            "es": "cuatro",
+            "tags": ""
         },
         {
             "id": 95,
-            "fr": "août",
-            "nl": "augustus",
-            "tags": ", chapter 6"
+            "nl": "negen",
+            "es": "nueve",
+            "tags": ""
         },
         {
             "id": 96,
-            "fr": "Aujourd'hui, nous sommes ...",
-            "nl": "Vandaag zijn we ...",
-            "tags": ", chapter 6"
+            "nl": "veertien",
+            "es": "catorce",
+            "tags": ""
         },
         {
             "id": 97,
-            "fr": "un anniversaire",
-            "nl": "une anniversaire",
-            "tags": ", chapter 6"
+            "nl": "negentien",
+            "es": "diecinueve",
+            "tags": ""
         },
         {
             "id": 98,
-            "fr": "vingt-sept",
-            "nl": "zevenentwintig",
-            "tags": ", chapter 6"
+            "nl": "bruin",
+            "es": "marrón",
+            "tags": ""
         },
         {
             "id": 99,
-            "fr": "vingt-six",
-            "nl": "zesentwintig",
-            "tags": ", chapter 6"
+            "nl": "ik ben 7 jaar oud",
+            "es": "tengo 7 años",
+            "tags": ""
         },
         {
             "id": 100,
-            "fr": "le deux janvier, le trois janvier",
-            "nl": "de tweede januari, de derde januari",
-            "tags": ", chapter 6"
+            "nl": "de zus",
+            "es": "la hermana",
+            "tags": ""
         },
         {
             "id": 101,
-            "fr": "novembre",
-            "nl": "november",
-            "tags": ", chapter 6"
+            "nl": "de vriendin",
+            "es": "la amiga",
+            "tags": ""
         },
         {
             "id": 102,
-            "fr": "vingt-trois",
-            "nl": "drieëntwintig",
-            "tags": ", chapter 6"
+            "nl": "de neef",
+            "es": "el primo",
+            "tags": ""
         },
         {
             "id": 103,
-            "fr": "décembre",
-            "nl": "december",
-            "tags": ", chapter 6"
+            "nl": "zij is",
+            "es": "ella es",
+            "tags": "werkwoord"
         },
         {
             "id": 104,
-            "fr": "vingt-quatre",
-            "nl": "vierentwintig",
-            "tags": ", chapter 6"
+            "nl": "nul",
+            "es": "cero",
+            "tags": ""
         },
         {
             "id": 105,
-            "fr": "une fête",
-            "nl": "een feest(dag)",
-            "tags": ", chapter 6"
+            "nl": "vijf",
+            "es": "cinco",
+            "tags": ""
         },
         {
             "id": 106,
-            "fr": "vingt-neuf",
-            "nl": "negenentwintig",
-            "tags": ", chapter 6"
+            "nl": "tien",
+            "es": "diez",
+            "tags": ""
         },
         {
             "id": 107,
-            "fr": "le carnaval",
-            "nl": "carnaval",
-            "tags": ", chapter 6"
+            "nl": "vijftien",
+            "es": "quince",
+            "tags": ""
         },
         {
             "id": 108,
-            "fr": "trente",
-            "nl": "dertig",
-            "tags": ", chapter 6"
+            "nl": "twintig",
+            "es": "veinte",
+            "tags": ""
         },
         {
             "id": 109,
-            "fr": "les vacances",
-            "nl": "de vakantie",
-            "tags": ", chapter 6"
+            "nl": "beige",
+            "es": "beige",
+            "tags": ""
         },
         {
             "id": 110,
-            "fr": "Pâques",
-            "nl": "Pasen",
-            "tags": ", chapter tru"
+            "nl": "ik woon in Lubbeek",
+            "es": "vivo en Lubbeek",
+            "tags": ""
         },
         {
             "id": 111,
-            "fr": "janvier",
-            "nl": "januari",
-            "tags": ", chapter 6"
+            "nl": "... heet ...",
+            "es": "... se llama ...",
+            "tags": ""
         },
         {
             "id": 112,
-            "fr": "Noël",
-            "nl": "Kerstmis",
-            "tags": ", chapter 6"
+            "nl": "de opa heet rik",
+            "es": "el abuelo se llama rik",
+            "tags": ""
         },
         {
             "id": 113,
-            "fr": "le premier janvier",
-            "nl": "de eerste januari",
-            "tags": ", chapter 6"
+            "nl": "de nonkel",
+            "es": "el tío",
+            "tags": ""
         },
         {
             "id": 114,
-            "fr": "vingt-cinq",
-            "nl": "vijfentwintig",
-            "tags": ", chapter 6"
+            "nl": "de nicht",
+            "es": "la prima",
+            "tags": ""
         },
         {
             "id": 115,
-            "fr": "mai",
-            "nl": "mei",
-            "tags": ", chapter 6"
+            "nl": "u bent",
+            "es": "usted es",
+            "tags": ""
         },
         {
             "id": 116,
-            "fr": "aujourd'hui",
-            "nl": "vandaag",
-            "tags": ", chapter 6"
+            "nl": "één",
+            "es": "uno",
+            "tags": ""
         },
         {
             "id": 117,
-            "fr": "février",
-            "nl": "februari",
-            "tags": ", chapter 6"
+            "nl": "zes",
+            "es": "seis",
+            "tags": ""
         },
         {
             "id": 118,
-            "fr": "Joyeux Noël!",
-            "nl": "Vrolijk kerstfeest!",
-            "tags": ", chapter 6"
+            "nl": "elf",
+            "es": "once",
+            "tags": ""
         },
         {
             "id": 119,
-            "fr": "trente et un",
-            "nl": "éénendertig",
-            "tags": ", chapter 6"
+            "nl": "zestien",
+            "es": "dieciséis",
+            "tags": ""
         },
         {
             "id": 120,
-            "fr": "une date",
-            "nl": "een datum",
-            "tags": ", chapter 6"
+            "nl": "grijs",
+            "es": "gris",
+            "tags": ""
         },
         {
             "id": 121,
-            "fr": "le nouvel an",
-            "nl": "nieuwjaar",
-            "tags": ", chapter 6"
+            "nl": "een grap",
+            "es": "una broma",
+            "tags": ""
         },
         {
             "id": 122,
-            "fr": "vingt-huit",
-            "nl": "achtentwintig",
-            "tags": ", chapter 6"
+            "nl": "een klokslag",
+            "es": "una campanada",
+            "tags": ""
         },
         {
             "id": 123,
-            "fr": "octobre",
-            "nl": "oktober",
-            "tags": ", chapter 6"
+            "nl": "kerstavond",
+            "es": "nochebuena",
+            "tags": ""
         },
         {
             "id": 124,
-            "fr": "vingt-deux",
-            "nl": "tweeëntwintig",
-            "tags": ", chapter 6"
+            "nl": "kerstliedjes",
+            "es": "villancicos de navidad",
+            "tags": ""
         },
         {
             "id": 125,
-            "fr": "juillet",
-            "nl": "juli",
-            "tags": ", chapter 6"
+            "nl": "de humor",
+            "es": "el humor",
+            "tags": ""
         },
         {
             "id": 126,
-            "fr": "Quelle est la date?",
-            "nl": "Wat is de datum?",
-            "tags": ", chapter 6"
+            "nl": "het geluk",
+            "es": "la suerte",
+            "tags": ""
         },
         {
             "id": 127,
-            "fr": "avril",
-            "nl": "april",
-            "tags": ", chapter 6"
+            "nl": "nieuwjaar",
+            "es": "año nuevo",
+            "tags": ""
         },
         {
             "id": 128,
-            "fr": "quand?",
-            "nl": "wanneer?",
-            "tags": ", chapter 6"
+            "nl": "geluk",
+            "es": "felicidad",
+            "tags": ""
         },
         {
             "id": 129,
-            "fr": "un ballon de foot",
-            "nl": "een voetbal",
-            "tags": ", chapter 7"
+            "nl": "welvaart/voorspoed",
+            "es": "prosperidad",
+            "tags": ""
         },
         {
             "id": 130,
-            "fr": "un CD",
-            "nl": "een cd",
-            "tags": ", chapter 7"
+            "nl": "onze vriendschap",
+            "es": "nuestra amistad",
+            "tags": ""
         },
         {
             "id": 131,
-            "fr": "un cadeau",
-            "nl": "een geschenk",
-            "tags": ", chapter 7"
+            "nl": "de spot drijven",
+            "es": "hacer mofa",
+            "tags": "werkwoord"
         },
         {
             "id": 132,
-            "fr": "een jeu",
-            "nl": "een spel",
-            "tags": ", chapter 7"
+            "nl": "een traditie",
+            "es": "una tradición",
+            "tags": ""
         },
         {
             "id": 133,
-            "fr": "un livre",
-            "nl": "een boek",
-            "tags": ", chapter 7"
+            "nl": "vrolijk kerstfeest!",
+            "es": "¡feliz navidad!",
+            "tags": ""
         },
         {
             "id": 134,
-            "fr": "Bon anniversaire",
-            "nl": "Gelukkige verjaardag",
-            "tags": ", chapter 7"
+            "nl": "oudejaarsavond",
+            "es": "la nochevieja",
+            "tags": ""
         },
         {
             "id": 135,
-            "fr": "Salut!",
-            "nl": "Dag! Hallo!",
-            "tags": ", chapter 7"
+            "nl": "gelukkig nieuwjaar!",
+            "es": "¡próspero año nuevo!",
+            "tags": ""
         },
         {
             "id": 136,
-            "fr": "Denise est (méga) cool!",
-            "nl": "Denise is (kei) tof, cool, reuze!",
-            "tags": ", chapter 7"
+            "nl": "een druif",
+            "es": "una uva",
+            "tags": ""
         },
         {
             "id": 137,
-            "fr": "Yves est sympa!",
-            "nl": "Yves is sympathiek, aardig!",
-            "tags": ", chapter 7"
+            "nl": "kerstmis",
+            "es": "navidad",
+            "tags": ""
         },
         {
             "id": 138,
-            "fr": "Merci beaucoup!",
-            "nl": "Hartelijk bedankt!",
-            "tags": ", chapter 7"
+            "nl": "kerstwensen",
+            "es": "deseos para navidad",
+            "tags": ""
         },
         {
             "id": 139,
-            "fr": "très (content)",
-            "nl": "zeer, heel, erg (blij)",
-            "tags": ", chapter 7"
+            "nl": "mijn broer is tien jaar oud",
+            "es": "mi hermano tiene diez años",
+            "tags": ""
         },
         {
             "id": 140,
-            "fr": "Denis est (méga) cool",
-            "nl": "Denis is (kei) tof, cool, reuze!",
-            "tags": ", chapter 7"
+            "nl": "mijn tante heet María",
+            "es": "mi tía se llama María",
+            "tags": ""
         },
         {
             "id": 141,
-            "fr": "pour moi",
-            "nl": "voor mij",
-            "tags": ", chapter 7"
+            "nl": "mijn hond heet Tessa",
+            "es": "mi perro se llama Tessa",
+            "tags": ""
         },
         {
             "id": 142,
-            "fr": "pour toi",
-            "nl": "voor jou",
-            "tags": ", chapter 7"
+            "nl": "de citroen is geel",
+            "es": "el citrón es amarillo",
+            "tags": ""
         },
         {
             "id": 143,
-            "fr": "Yvette est sympa!",
-            "nl": "Yvette is sympathiek, aardig!",
-            "tags": ", chapter 7"
+            "nl": "de wortel is oranje",
+            "es": "la zanahoria es naranja",
+            "tags": ""
         },
         {
             "id": 144,
-            "fr": "J'ai un CD",
-            "nl": "Ik heb een cd",
-            "tags": ", chapter 7"
+            "nl": "ik werk",
+            "es": "yo trabajo",
+            "tags": "werkwoord"
         },
         {
             "id": 145,
-            "fr": "Julien est super!",
-            "nl": "Julien is geweldig, schitterend!",
-            "tags": ", chapter 7"
+            "nl": "jij werkt",
+            "es": "tú trabajas",
+            "tags": "werkwoord"
         },
         {
             "id": 146,
-            "fr": "avoir",
-            "nl": "hebben",
-            "tags": "werkwoord, chapter 7"
+            "nl": "hij werkt",
+            "es": "él trabaja",
+            "tags": "werkwoord"
         },
         {
             "id": 147,
-            "fr": "Elle a un copain",
-            "nl": "Ze heeft een vriend",
-            "tags": ", chapter 7"
+            "nl": "zij werkt",
+            "es": "ella trabaja",
+            "tags": "werkwoord"
         },
         {
             "id": 148,
-            "fr": "Tu as mon livre",
-            "nl": "Je hebt mijn boek",
-            "tags": ", chapter 7"
+            "nl": "u werkt",
+            "es": "usted trabaja",
+            "tags": "werkwoord"
         },
         {
             "id": 149,
-            "fr": "Julia est super!",
-            "nl": "Julia is geweldig, schitterend!",
-            "tags": ", chapter 7"
+            "nl": "wij werken",
+            "es": "nosotros trabajamos",
+            "tags": "werkwoord"
         },
         {
             "id": 150,
-            "fr": "un T-shirt",
-            "nl": "een T-shirt",
-            "tags": ", chapter 7"
+            "nl": "jullie werken",
+            "es": "vosotros trabajáis",
+            "tags": "werkwoord"
         },
         {
             "id": 151,
-            "fr": "un DVD",
-            "nl": "een dvd",
-            "tags": ", chapter 7"
+            "nl": "ze werken",
+            "es": "ellos trabajan",
+            "tags": "werkwoord"
         },
         {
             "id": 152,
-            "fr": "De rien!",
-            "nl": "Geen dank, graag gedaan!",
-            "tags": ", chapter 7"
+            "nl": "ik eet",
+            "es": "yo como",
+            "tags": "werkwoord"
         },
         {
             "id": 153,
-            "fr": "Que'est-ce que c'est?",
-            "nl": "Wat is het?",
-            "tags": ", chapter 7"
+            "nl": "jij eet",
+            "es": "tú comes",
+            "tags": "werkwoord"
         },
         {
             "id": 154,
-            "fr": "Il a une copine",
-            "nl": "Hij heeft een vriendin",
-            "tags": ", chapter 7"
+            "nl": "hij eet",
+            "es": "él come",
+            "tags": "werkwoord"
         },
         {
             "id": 155,
-            "fr": "des élèves",
-            "nl": "leerlingen",
-            "tags": ", chapter 8"
+            "nl": "zij eet",
+            "es": "ella come",
+            "tags": "werkwoord"
         },
         {
             "id": 156,
-            "fr": "une élève",
-            "nl": "een leerlinge",
-            "tags": ", chapter 8"
+            "nl": "u eet",
+            "es": "usted come",
+            "tags": "werkwoord"
         },
         {
             "id": 157,
-            "fr": "des cahiers",
-            "nl": "schriften",
-            "tags": ", chapter 8"
+            "nl": "wij eten",
+            "es": "nosotros comemos",
+            "tags": "werkwoord"
         },
         {
             "id": 158,
-            "fr": "un élève",
-            "nl": "een leerling",
-            "tags": ", chapter 8"
+            "nl": "jullie eten",
+            "es": "vosotros coméis",
+            "tags": "werkwoord"
         },
         {
             "id": 159,
-            "fr": "des tables",
-            "nl": "tafels",
-            "tags": ", chapter 8"
+            "nl": "ze eten",
+            "es": "ellos comen",
+            "tags": "werkwoord"
         },
         {
             "id": 160,
-            "fr": "une classe",
-            "nl": "een klas, klaslokaal",
-            "tags": ", chapter 8"
+            "nl": "ik leef",
+            "es": "yo vivo",
+            "tags": "werkwoord"
         },
         {
             "id": 161,
-            "fr": "Qu'est-ce qu'il y a?",
-            "nl": "Wat is er?",
-            "tags": ", chapter 8"
+            "nl": "jij leeft",
+            "es": "tú vives",
+            "tags": "werkwoord"
         },
         {
             "id": 162,
-            "fr": "un T-shirt rouge",
-            "nl": "een rood T-shirt",
-            "tags": ", chapter 8"
+            "nl": "werken",
+            "es": "trabajar",
+            "tags": "werkwoord"
         },
         {
             "id": 163,
-            "fr": "Il y a ...",
-            "nl": "Er is, er zijn, er staat, er staan ...",
-            "tags": ", chapter 8"
+            "nl": "eten",
+            "es": "comer",
+            "tags": "werkwoord"
         },
         {
             "id": 164,
-            "fr": "une chaise rouge",
-            "nl": "een rode stoel",
-            "tags": ", chapter 8"
+            "nl": "leven",
+            "es": "vivir",
+            "tags": "werkwoord"
         },
         {
             "id": 165,
-            "fr": "dans ma classe",
-            "nl": "in mijn klas",
-            "tags": ", chapter 8"
+            "nl": "hij leeft",
+            "es": "él vive",
+            "tags": "werkwoord"
         },
         {
             "id": 166,
-            "fr": "un tableau vert",
-            "nl": "een groen (school)bord",
-            "tags": ", chapter 8"
+            "nl": "zij leeft",
+            "es": "ella vive",
+            "tags": "werkwoord"
         },
         {
             "id": 167,
-            "fr": "sur ma table",
-            "nl": "op mijn tafel",
-            "tags": ", chapter 8"
+            "nl": "u leeft",
+            "es": "usted vive",
+            "tags": "werkwoord"
         },
         {
             "id": 168,
-            "fr": "une porte verte",
-            "nl": "een groene deur",
-            "tags": ", chapter 8"
+            "nl": "wij leven",
+            "es": "nosotros vivimos",
+            "tags": "werkwoord"
         },
         {
             "id": 169,
-            "fr": "un prof",
-            "nl": "een leerkracht, leraar",
-            "tags": ", chapter 8"
+            "nl": "jullie leven",
+            "es": "vosotros vivís",
+            "tags": "werkwoord"
         },
         {
             "id": 170,
-            "fr": "un tableau noir",
-            "nl": "een zwart (school)bord",
-            "tags": ", chapter 8"
+            "nl": "ze leven",
+            "es": "ellos viven",
+            "tags": "werkwoord"
         },
         {
             "id": 171,
-            "fr": "une prof",
-            "nl": "een leerkracht, lerares",
-            "tags": ", chapter 8"
+            "nl": "zien",
+            "es": "ver",
+            "tags": "werkwoord"
         },
         {
             "id": 172,
-            "fr": "un porte noire",
-            "nl": "een zwarte deur",
-            "tags": ", chapter 8"
+            "nl": "ik zie",
+            "es": "yo veo",
+            "tags": "werkwoord"
         },
         {
             "id": 173,
-            "fr": "un tableau",
-            "nl": "een (school)bord",
-            "tags": ", chapter 8"
+            "nl": "jij ziet",
+            "es": "tú ves",
+            "tags": "werkwoord"
         },
         {
             "id": 174,
-            "fr": "un T-shirt bleu",
-            "nl": "een blauw T-shirt",
-            "tags": ", chapter 8"
+            "nl": "hij ziet",
+            "es": "él ve",
+            "tags": "werkwoord"
         },
         {
             "id": 175,
-            "fr": "un chaise bleue",
-            "nl": "een blauwe stoel",
-            "tags": ", chapter 8"
+            "nl": "zij ziet",
+            "es": "ella ve",
+            "tags": "werkwoord"
         },
         {
             "id": 176,
-            "fr": "un chahier",
-            "nl": "een schrift",
-            "tags": ", chapter 8"
+            "nl": "wij zien",
+            "es": "nosotros vemos",
+            "tags": "werkwoord"
         },
         {
             "id": 177,
-            "fr": "des cahiers rouges",
-            "nl": "rode schriften",
-            "tags": ", chapter 8"
+            "nl": "jullie zien",
+            "es": "vosotros veis",
+            "tags": "werkwoord"
         },
         {
             "id": 178,
-            "fr": "un ordinateur",
-            "nl": "een computer",
-            "tags": ", chapter 8"
+            "nl": "ze zien",
+            "es": "ellos ven",
+            "tags": "werkwoord"
         },
         {
             "id": 179,
-            "fr": "des copines fortes",
-            "nl": "sterke vriendinnen",
-            "tags": ", chapter 8"
+            "nl": "een beetje",
+            "es": "un poco",
+            "tags": ""
         },
         {
             "id": 180,
-            "fr": "une radio",
-            "nl": "een radio",
-            "tags": ", chapter 8"
+            "nl": "voldoende",
+            "es": "bastante",
+            "tags": ""
         },
         {
             "id": 181,
-            "fr": "des tables rouges",
-            "nl": "rode tafels",
-            "tags": ", chapter 8"
+            "nl": "heel ",
+            "es": "muy",
+            "tags": ""
         },
         {
             "id": 182,
-            "fr": "un bureau",
-            "nl": "een bureau",
-            "tags": ", chapter 8"
+            "nl": "eigenschappen",
+            "es": "características",
+            "tags": ""
         },
         {
             "id": 183,
-            "fr": "des bureaux",
-            "nl": "bureaus",
-            "tags": ", chapter 8"
+            "nl": "bruinharig",
+            "es": "moreno",
+            "tags": ""
         },
         {
             "id": 184,
-            "fr": "une table",
-            "nl": "een tafel",
-            "tags": ", chapter 8"
+            "nl": "kaal",
+            "es": "calvo",
+            "tags": ""
         },
         {
             "id": 185,
-            "fr": "des cadeaux",
-            "nl": "cadeaus",
-            "tags": ", chapter 8"
+            "nl": "roodharig",
+            "es": "pelirroja",
+            "tags": ""
         },
         {
             "id": 186,
-            "fr": "une armoire",
-            "nl": "een kast",
-            "tags": ", chapter 8"
+            "nl": "blond",
+            "es": "rubia",
+            "tags": ""
         },
         {
             "id": 187,
-            "fr": "des armoires",
-            "nl": "kasten",
-            "tags": ", chapter 8"
+            "nl": "leeftijd",
+            "es": "edad",
+            "tags": ""
         },
         {
             "id": 188,
-            "fr": "une chaise",
-            "nl": "een stoel",
-            "tags": ", chapter 8"
+            "nl": "jong",
+            "es": "joven",
+            "tags": ""
         },
         {
             "id": 189,
-            "fr": "des tableaux",
-            "nl": "(school)borden",
-            "tags": ", chapter 8"
+            "nl": "oud",
+            "es": "mayor",
+            "tags": ""
         },
         {
             "id": 190,
-            "fr": "une porte",
-            "nl": "een deur",
-            "tags": ", chapter 8"
+            "nl": "grootte",
+            "es": "estatura",
+            "tags": ""
         },
         {
             "id": 191,
-            "fr": "des jeux",
-            "nl": "spellen",
-            "tags": ", chapter 8"
+            "nl": "groot",
+            "es": "alto",
+            "tags": ""
         },
         {
             "id": 192,
-            "fr": "des copains forts",
-            "nl": "sterke vrienden",
-            "tags": ", chapter 8"
+            "nl": "gemiddelde grootte",
+            "es": "de estatura mediana",
+            "tags": ""
         },
         {
             "id": 193,
-            "fr": "une fenêtre",
-            "nl": "een raam",
-            "tags": ", chapter 8"
+            "nl": "klein",
+            "es": "bajo",
+            "tags": ""
+        },
+        {
+            "id": 194,
+            "nl": "fysieke bouw",
+            "es": "contextura física",
+            "tags": ""
+        },
+        {
+            "id": 195,
+            "nl": "slank",
+            "es": "delgado",
+            "tags": ""
+        },
+        {
+            "id": 196,
+            "nl": "atletisch",
+            "es": "atlético",
+            "tags": ""
+        },
+        {
+            "id": 197,
+            "nl": "mollig",
+            "es": "gordito",
+            "tags": ""
+        },
+        {
+            "id": 198,
+            "nl": "het haar",
+            "es": "el pelo",
+            "tags": ""
+        },
+        {
+            "id": 199,
+            "nl": "kastanjebruin",
+            "es": "castaño",
+            "tags": ""
+        },
+        {
+            "id": 200,
+            "nl": "donker haar",
+            "es": "el pelo oscuro",
+            "tags": ""
+        },
+        {
+            "id": 201,
+            "nl": "kort",
+            "es": "corto",
+            "tags": ""
+        },
+        {
+            "id": 202,
+            "nl": "lang",
+            "es": "largo",
+            "tags": ""
+        },
+        {
+            "id": 203,
+            "nl": "middelmatig lang haar",
+            "es": "el pelo media",
+            "tags": ""
+        },
+        {
+            "id": 204,
+            "nl": "vorm",
+            "es": "forma",
+            "tags": ""
+        },
+        {
+            "id": 205,
+            "nl": "glad",
+            "es": "liso",
+            "tags": ""
+        },
+        {
+            "id": 206,
+            "nl": "een beetje gekruld haar",
+            "es": "ondulado",
+            "tags": ""
+        },
+        {
+            "id": 207,
+            "nl": "gekruld haar",
+            "es": "el pelo rizado",
+            "tags": ""
+        },
+        {
+            "id": 208,
+            "nl": "donker",
+            "es": "oscuro",
+            "tags": ""
+        },
+        {
+            "id": 209,
+            "nl": "bruine ogen",
+            "es": "los ojos marrones ",
+            "tags": ""
+        },
+        {
+            "id": 210,
+            "nl": "zwarte ogen",
+            "es": "los ojos negros",
+            "tags": ""
+        },
+        {
+            "id": 211,
+            "nl": "groene ogen",
+            "es": "los ojos verdes",
+            "tags": ""
+        },
+        {
+            "id": 212,
+            "nl": "grijze ogen",
+            "es": "los ojos grises",
+            "tags": ""
+        },
+        {
+            "id": 213,
+            "nl": "blauwe ogen",
+            "es": "los ojos azules",
+            "tags": ""
+        },
+        {
+            "id": 214,
+            "nl": "lichte ogen",
+            "es": "los ojos claros",
+            "tags": ""
+        },
+        {
+            "id": 215,
+            "nl": "donkere ogen",
+            "es": "los ojos oscuros",
+            "tags": ""
+        },
+        {
+            "id": 216,
+            "nl": "de baard",
+            "es": "la barba",
+            "tags": ""
+        },
+        {
+            "id": 217,
+            "nl": "de snor",
+            "es": "el bigote",
+            "tags": ""
+        },
+        {
+            "id": 218,
+            "nl": "bril",
+            "es": "gafas",
+            "tags": ""
+        },
+        {
+            "id": 219,
+            "nl": "hebben",
+            "es": "tener",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 220,
+            "nl": "ik heb",
+            "es": "yo tengo",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 221,
+            "nl": "jij hebt",
+            "es": "tú tienes",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 222,
+            "nl": "zij heeft",
+            "es": "ella tiene",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 223,
+            "nl": "wij hebben",
+            "es": "nosotros tenemos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 224,
+            "nl": "zij hebben",
+            "es": "vosotros tenéis",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 225,
+            "nl": "zij hebben",
+            "es": "ellos tienen",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 226,
+            "nl": "zijn",
+            "es": "ser",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 227,
+            "nl": "ik ben (estar)",
+            "es": "yo estoy",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 228,
+            "nl": "jij bent (estar)",
+            "es": "tú estás",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 229,
+            "nl": "zij is (estar)",
+            "es": "ella está",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 230,
+            "nl": "wij zijn (estar)",
+            "es": "nosotros estamos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 231,
+            "nl": "zij zijn (estar)",
+            "es": "vosotros estáis",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 232,
+            "nl": "zij zijn (estar)",
+            "es": "ellos están",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 233,
+            "nl": "vragen",
+            "es": "pedir",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 234,
+            "nl": "ik vraag",
+            "es": "yo pido",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 235,
+            "nl": "jij vraagt",
+            "es": "tú pides",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 236,
+            "nl": "u vraagt",
+            "es": "usted pide",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 237,
+            "nl": "wij vragen",
+            "es": "nosotros pedimos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 238,
+            "nl": "zij vragen",
+            "es": "vosotros pedís",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 239,
+            "nl": "zij vragen",
+            "es": "ellos piden",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 240,
+            "nl": "komen",
+            "es": "venir",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 241,
+            "nl": "ik kom",
+            "es": "yo vengo",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 242,
+            "nl": "jij komt",
+            "es": "tú vienes",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 243,
+            "nl": "zij komt",
+            "es": "ella viene",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 244,
+            "nl": "wij komen",
+            "es": "nosotros venimos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 245,
+            "nl": "zij komen",
+            "es": "vosotros venís",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 246,
+            "nl": "zij komen",
+            "es": "ellos vienen",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 247,
+            "nl": "geven",
+            "es": "dar",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 248,
+            "nl": "ik geef",
+            "es": "yo doy",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 249,
+            "nl": "jij geeft",
+            "es": "tú das",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 250,
+            "nl": "zij geeft",
+            "es": "ella da",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 251,
+            "nl": "wij geven",
+            "es": "nostros damos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 252,
+            "nl": "jullie geven",
+            "es": "vosotros dais",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 253,
+            "nl": "zij geven",
+            "es": "ellos dan",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 254,
+            "nl": "maken",
+            "es": "hacer",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 255,
+            "nl": "ik maak",
+            "es": "yo hago",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 256,
+            "nl": "jij maakt",
+            "es": "tú haces",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 257,
+            "nl": "zij maakt",
+            "es": "ella hace",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 258,
+            "nl": "wij maken",
+            "es": "nosotros hacemos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 259,
+            "nl": "jullie maken",
+            "es": "vosotors hacéis",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 260,
+            "nl": "zij maken",
+            "es": "ellos hacen",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 261,
+            "nl": "gaan",
+            "es": "ir",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 262,
+            "nl": "ik ga",
+            "es": "yo voy",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 263,
+            "nl": "jij gaat",
+            "es": "tú vas",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 264,
+            "nl": "hij gaat",
+            "es": "él va",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 265,
+            "nl": "wij gaan",
+            "es": "nosotros vamos",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 266,
+            "nl": "jullie gaan",
+            "es": "vosotros vais",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 267,
+            "nl": "zij gaan",
+            "es": "ellos van",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 268,
+            "nl": "schaken",
+            "es": "ajedrez",
+            "tags": "werkwoord"
+        },
+        {
+            "id": 269,
+            "nl": "de pion (schaken)",
+            "es": "el peón",
+            "tags": ""
+        },
+        {
+            "id": 270,
+            "nl": "de koning",
+            "es": "el rey",
+            "tags": ""
+        },
+        {
+            "id": 271,
+            "nl": "de koningin",
+            "es": "la reina",
+            "tags": ""
+        },
+        {
+            "id": 272,
+            "nl": "de loper (schaken)",
+            "es": "el álfil",
+            "tags": ""
+        },
+        {
+            "id": 273,
+            "nl": "de toren (schaken)",
+            "es": "el torre",
+            "tags": ""
+        },
+        {
+            "id": 274,
+            "nl": "schaak",
+            "es": "jaque",
+            "tags": ""
+        },
+        {
+            "id": 275,
+            "nl": "schaakmat",
+            "es": "jaque mate",
+            "tags": ""
+        },
+        {
+            "id": 276,
+            "nl": "ik heb groene ogen",
+            "es": "tengo los ojos verdes",
+            "tags": "werkwoord"
+        },
+        {
+            "id":276,
+            "nl": "de naam",
+            "es": "el nombre",
+            "tags":""
         }
+,
+        {
+            "id":277,
+            "nl": "hoe heet je",
+            "es": "¿Cómo te llamas?",
+            "tags":""
+        }
+,
+        {
+            "id":278,
+            "nl": "de woonplaats",
+            "es": "la residencia",
+            "tags":""
+        }
+,
+        {
+            "id":279,
+            "nl": "Waar woon je?",
+            "es": "¿Dónde vives?",
+            "tags":""
+        }
+,
+        {
+            "id":280,
+            "nl": "Ik woon in Lubbeek",
+            "es": "Vivo en Lubbeek",
+            "tags":""
+        }
+,
+        {
+            "id":281,
+            "nl": "Het beroep",
+            "es": "La profesión",
+            "tags":""
+        }
+,
+        {
+            "id":282,
+            "nl": "Wat is je werk?",
+            "es": "¿A qué te dedicas?",
+            "tags":""
+        }
+,
+        {
+            "id":283,
+            "nl": "Ik ben een muziekant",
+            "es": "Soy músico",
+            "tags":""
+        }
+,
+        {
+            "id":284,
+            "nl": "De leeftijd",
+            "es": "La edad",
+            "tags":""
+        }
+,
+        {
+            "id":285,
+            "nl": "Hoe oud ben je?",
+            "es": "¿Cuántos años tienes?",
+            "tags":""
+        }
+,
+        {
+            "id":286,
+            "nl": "Ik ben 9 jaar",
+            "es": "Tengo 9 años",
+            "tags":""
+        }
+,
+        {
+            "id":287,
+            "nl": "de nationaliteit",
+            "es": "la nacionalidad",
+            "tags":""
+        }
+,
+        {
+            "id":288,
+            "nl": "Van waar ben je?",
+            "es": "¿De dónde eres?",
+            "tags":""
+        }
+,
+        {
+            "id":289,
+            "nl": "Ik ben Spaans",
+            "es": "Soy español",
+            "tags":""
+        }
+,
+        {
+            "id":290,
+            "nl": "De telefoon",
+            "es": "El teléfono",
+            "tags":""
+        }
+,
+        {
+            "id":291,
+            "nl": "Wat is je telefoonnummer?",
+            "es": "¿Cuál es tu número de teléfono?",
+            "tags":""
+        }
+,
+        {
+            "id":292,
+            "nl": "De vragen",
+            "es": "Las preguntas",
+            "tags":""
+        }
+,
+        {
+            "id":293,
+            "nl": "De antwoorden",
+            "es": "Las respuestas",
+            "tags":""
+        }
+,
+        {
+            "id":294,
+            "nl": "De vampieren",
+            "es": "Los vampiros",
+            "tags":""
+        }
+,
+        {
+            "id":295,
+            "nl": "De hoofdstad",
+            "es": "La capital",
+            "tags":""
+        }
+,
+        {
+            "id":296,
+            "nl": "De brandweerman",
+            "es": "El bombero",
+            "tags":""
+        }
+,
+        {
+            "id":297,
+            "nl": "Het continent",
+            "es": "El continente",
+            "tags":""
+        }
+,
+        {
+            "id":298,
+            "nl": "De moeder",
+            "es": "la madre",
+            "tags":""
+        }
+,
+        {
+            "id":299,
+            "nl": "De vader",
+            "es": "El padre",
+            "tags":""
+        }
+,
+        {
+            "id":300,
+            "nl": "De naam",
+            "es": "El nombre",
+            "tags":""
+        }
+,
+        {
+            "id":301,
+            "nl": "Het land",
+            "es": "El país",
+            "tags":""
+        }
+,
+        {
+            "id":302,
+            "nl": "Wat betekent ... ?",
+            "es": "¿Qué significa ... ?",
+            "tags":""
+        }
+,
+        {
+            "id":303,
+            "nl": "Ik heb een vraag",
+            "es": "Tengo una pregunta",
+            "tags":""
+        }
+,
+        {
+            "id":304,
+            "nl": "Ik begrijp het niet",
+            "es": "No lo entiendo",
+            "tags":""
+        }
+,
+        {
+            "id":305,
+            "nl": "Kan je het herhalen?",
+            "es": "¿Puedes repetirlo?",
+            "tags":""
+        }
+,
+        {
+            "id":306,
+            "nl": "Hoe zeg je?",
+            "es": "¿Cómo se dice ... ?",
+            "tags":""
+        }
+,
+        {
+            "id":307,
+            "nl": "Kan ik naar het toilet gaan?",
+            "es": "¿Puedo ir al baño?",
+            "tags":""
+        }
+,
+        {
+            "id":308,
+            "nl": "Kan ik het venster sluiten?",
+            "es": "¿Puedo abrir la ventana?",
+            "tags":""
+        }
+,
+        {
+            "id":309,
+            "nl": "Veel trager aub",
+            "es": "Más despacio, por favor",
+            "tags":""
+        }
+,
+        {
+            "id":310,
+            "nl": "Hoe schrijf je?",
+            "es": "¿Cómo se escribe?",
+            "tags":""
+        }
+,
+        {
+            "id":311,
+            "nl": "De olifant",
+            "es": "El elefante",
+            "tags":""
+        }
+,
+        {
+            "id":312,
+            "nl": "De hond",
+            "es": "el perro",
+            "tags":""
+        }
+,
+        {
+            "id":313,
+            "nl": "De kat",
+            "es": "El gato",
+            "tags":""
+        }
+,
+        {
+            "id":314,
+            "nl": "De koning",
+            "es": "El Rey",
+            "tags":""
+        }
+,
+        {
+            "id":315,
+            "nl": "De zoon",
+            "es": "El hijo",
+            "tags":""
+        }
+,
+        {
+            "id":316,
+            "nl": "De dochter",
+            "es": "La hija",
+            "tags":""
+        }
+,
+        {
+            "id":317,
+            "nl": "De vriend",
+            "es": "El amigo",
+            "tags":""
+        }
+,
+        {
+            "id":318,
+            "nl": "De vriendin",
+            "es": "La amiga",
+            "tags":""
+        }
+,
+        {
+            "id":319,
+            "nl": "En",
+            "es": "Y",
+            "tags":""
+        }
+,
+        {
+            "id":320,
+            "nl": "Of",
+            "es": "O",
+            "tags":""
+        }
+,
+        {
+            "id":321,
+            "nl": "Maar",
+            "es": "Pero",
+            "tags":""
+        },
+        {
+            "id":322,
+            "nl": "Ook",
+            "es": "También",
+            "tags":""
+        },
+        {
+            "id":323,
+            "nl": "Oefening",
+            "es": "Ejercicio",
+            "tags":""
+        },
+        {
+            "id":324,
+            "nl": "luisteren",
+            "es": "escuchar",
+            "tags":""
+        },
+        {
+            "id":325,
+            "nl": "de woorden",
+            "es": "las palabras",
+            "tags":""
+        },
+        {
+            "id":326,
+            "nl": "aankruisen",
+            "es": "marcar",
+            "tags":""
+        },
+        {
+            "id":327,
+            "nl": "de weg",
+            "es": "el camino",
+            "tags":""
+        },
+        {
+            "id":328,
+            "nl": "tekenen",
+            "es": "dibujar",
+            "tags":""
+        },
+        {
+            "id":329,
+            "nl": "goalkeeper",
+            "es": "el portero",
+            "tags":""
+        },
+        {
+            "id":330,
+            "nl": "de bal",
+            "es": "la pelota",
+            "tags":""
+        },
+        {
+            "id":331,
+            "nl": "uitspreken",
+            "es": "pronunciar",
+            "tags":""
+        },
+        {
+            "id":332,
+            "nl": "de kleine",
+            "es": "el pequeño",
+            "tags":""
+        },
+        {
+            "id":333,
+            "nl": "zingen",
+            "es": "cantar",
+            "tags":""
+        },
+        {
+            "id":334,
+            "nl": "gitaar spelen",
+            "es": "tocar la guitarra",
+            "tags":""
+        }
+
     ]
 }
