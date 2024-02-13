@@ -1158,6 +1158,559 @@
             "fr": "une fenêtre",
             "nl": "een raam",
             "tags": ", chapter 8"
+        },
+        {
+            "id": 194,
+            "fr": "un Belge",
+            "nl": "een Belg",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 195,
+            "fr": "une Française",
+            "nl": "een Franse",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 196,
+            "fr": "Ce sont des livres",
+            "nl": "Dat zijn boeken",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 197,
+            "fr": "un Français",
+            "nl": "een Fransman",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 198,
+            "fr": "un fils",
+            "nl": "een zoon",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 199,
+            "fr": "Elles sont grandes",
+            "nl": "Zij (v.) zijn groot",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 200,
+            "fr": "en France",
+            "nl": "in Frankrijk",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 201,
+            "fr": "en Belgique",
+            "nl": "in België",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 202,
+            "fr": "un enfant",
+            "nl": "een kind",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 203,
+            "fr": "Carla, tu n'es pas sympa!",
+            "nl": "Carla, je bent niet aardig!",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 204,
+            "fr": "la France",
+            "nl": "Frankrijk",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 205,
+            "fr": "une fille",
+            "nl": "een dochter",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 206,
+            "fr": "madame",
+            "nl": "mevrouw",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 207,
+            "fr": "monsieur",
+            "nl": "meneer",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 208,
+            "fr": "un prénom",
+            "nl": "een voornaam",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 209,
+            "fr": "Hubert, tu es super",
+            "nl": "Hubert, je bent geweldig",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 210,
+            "fr": "vos enfants",
+            "nl": "uw kinderen",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 211,
+            "fr": "grand ou petit",
+            "nl": "groot of klein",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 212,
+            "fr": "ici",
+            "nl": "hier",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 213,
+            "fr": "une jolie radio",
+            "nl": "een mooie radio",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 214,
+            "fr": "Madame, vous êtes Française?",
+            "nl": "Mevrouw, bent u Franse?",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 215,
+            "fr": "une Belge",
+            "nl": "een Belgische",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 216,
+            "fr": "Vous êtes jeunes",
+            "nl": "Jullie zijn jong",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 217,
+            "fr": "la Belgique",
+            "nl": "België",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 218,
+            "fr": "un joli T-shirt",
+            "nl": "een mooi T-shirt",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 219,
+            "fr": "Monsieur, vous êtes content?",
+            "nl": "Meneer, bent u tevreden?",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 220,
+            "fr": "Ils sont forts.",
+            "nl": "Zij zijn sterk.",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 221,
+            "fr": "un nom",
+            "nl": "een naam",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 222,
+            "fr": "Nous sommes contents.",
+            "nl": "Wij zijn tevreden.",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 223,
+            "fr": "Je suis Belge.",
+            "nl": "Ik ben Belg.",
+            "tags": ", chapter 10"
+        },
+        {
+            "id": 224,
+            "fr": "un mari",
+            "nl": "een echtgenoot",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 225,
+            "fr": "une femme",
+            "nl": "een echtgenote",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 226,
+            "fr": "un grand-père",
+            "nl": "een grootvader",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 227,
+            "fr": "une grand-mère",
+            "nl": "een grootmoeder",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 228,
+            "fr": "des parents",
+            "nl": "ouders",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 229,
+            "fr": "mademoiselle",
+            "nl": "juffrouw",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 230,
+            "fr": "chez Ria",
+            "nl": "bij Ria thuis",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 231,
+            "fr": "toujours",
+            "nl": "altijd",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 232,
+            "fr": "voilà Julie",
+            "nl": "daar is, daar heb je Julie",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 233,
+            "fr": "Il s'appelle Cédric",
+            "nl": "Hij heet Cédric",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 234,
+            "fr": "son frère",
+            "nl": "zijn / haar broer",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 235,
+            "fr": "sa soeur",
+            "nl": "zijn / haar zus",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 236,
+            "fr": "un beau cadeau",
+            "nl": "een mooi geschenk",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 237,
+            "fr": "une belle table",
+            "nl": "een mooie tafel",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 238,
+            "fr": "un nouveau tableau",
+            "nl": "een nieuw (school)bord",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 239,
+            "fr": "une nouvelle fenêtre",
+            "nl": "een nieuw raam",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 240,
+            "fr": "Roméo est amoureux",
+            "nl": "Roméo is verliefd",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 241,
+            "fr": "Juliette est amoureuse",
+            "nl": "Juliette is verliefd",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 242,
+            "fr": "Mon grand-père est vieux",
+            "nl": "Mijn grootvader is oud",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 243,
+            "fr": "Ma grand-mère est vieille",
+            "nl": "Mijn grootmoeder is oud",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 244,
+            "fr": "Le mari est gentil",
+            "nl": "De echtgenoot is aardig",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 245,
+            "fr": "La femme est gentille",
+            "nl": "De vrouw is aardig",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 246,
+            "fr": "Les ballons sont beaux",
+            "nl": "De ballonnen zijn mooi",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 247,
+            "fr": "Les livres sont nouveaux",
+            "nl": "De boeken zijn nieuw",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 248,
+            "fr": "Nicolas et Arthur sont amoureux",
+            "nl": "Nicolas en Arthur zijn verliefd",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 249,
+            "fr": "Ricard et Theo sont vieux",
+            "nl": "Ricard en Theo zijn oud",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 250,
+            "fr": "le fils de Ria",
+            "nl": "de zoon van Ria",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 251,
+            "fr": "l'ordinateur de Luc",
+            "nl": "de computer van Luc",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 252,
+            "fr": "les fils de Chantal",
+            "nl": "de zonen van Chantal",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 253,
+            "fr": "les ordinateurs d'Ida",
+            "nl": "de computers van Ida",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 254,
+            "fr": "la fille de Paul",
+            "nl": "de dochter van Paul",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 255,
+            "fr": "l'armoire d'Olga",
+            "nl": "de kast van Olga",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 256,
+            "fr": "les filles d'Yvon",
+            "nl": "de dochters van Yvon",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 257,
+            "fr": "les armoires de Julie",
+            "nl": "de kasten van Julie",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 258,
+            "fr": "l'anniversaire",
+            "nl": "de verjaardag",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 259,
+            "fr": "l'armoire",
+            "nl": "de kast",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 260,
+            "fr": "l'élève",
+            "nl": "de leerling",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 261,
+            "fr": "l'ordinateur",
+            "nl": "de computer",
+            "tags": ", chapter 11"
+        },
+        {
+            "id": 262,
+            "fr": "La leçon commence.",
+            "nl": "De les begint.",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 263,
+            "fr": "commencer",
+            "nl": "beginnen",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 264,
+            "fr": "Il est quelle heure?",
+            "nl": "Hoe laat is het?",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 265,
+            "fr": "l'après-midi",
+            "nl": "'s namiddags",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 266,
+            "fr": "à 8 heures",
+            "nl": "om 8 uur",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 267,
+            "fr": "le matin",
+            "nl": "'s morgens",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 268,
+            "fr": "soixante",
+            "nl": "zestig",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 269,
+            "fr": "la musique",
+            "nl": "de muziek",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 270,
+            "fr": "cinquante",
+            "nl": "vijftig",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 271,
+            "fr": "une leçon de français",
+            "nl": "een les Frans",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 272,
+            "fr": "à quelle heure?",
+            "nl": "hoe laat?",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 273,
+            "fr": "quarante",
+            "nl": "veertig",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 274,
+            "fr": "Il est midi.",
+            "nl": "Het is middag.",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 275,
+            "fr": "Il est 7h10",
+            "nl": "Het is 7.10 uur",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 276,
+            "fr": "le néerlandais",
+            "nl": "het Nederlands",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 277,
+            "fr": "une leçon",
+            "nl": "een les",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 278,
+            "fr": "le sport",
+            "nl": "de sport",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 279,
+            "fr": "le français",
+            "nl": "Het Frans",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 280,
+            "fr": "La leçon finit.",
+            "nl": "De les eindigt.",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 281,
+            "fr": "une minute",
+            "nl": "een minuut",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 282,
+            "fr": "votre école",
+            "nl": "jullie / uw school",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 283,
+            "fr": "une heure",
+            "nl": "een uur",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 284,
+            "fr": "finir",
+            "nl": "eindigen",
+            "tags": ", chapter 12"
+        },
+        {
+            "id": 285,
+            "fr": "une école",
+            "nl": "een school",
+            "tags": ", chapter 12"
         }
+
     ]
 }
